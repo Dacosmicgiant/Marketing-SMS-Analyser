@@ -1,9 +1,7 @@
-# Required packages
 library(shiny)
-library(tidyverse)
+library(data.table)
 library(tm)
 library(ggplot2)
-library(quanteda)
 library(plotly)
 
 # UI
@@ -14,10 +12,7 @@ ui <- fluidPage(
       fileInput("file", "Choose CSV File",
                 accept = c("text/csv", "text/comma-separated-values,text/plain", ".csv")),
       selectInput("category", "Select Product Category",
-                  choices = c("All", "Electronics", "Fashion", "Food")),
-      # New download buttons
-      downloadButton("downloadProcessed", "Download Processed Data"),
-      downloadButton("downloadAnalysis", "Download Analysis Results")
+                  choices = c("All", "Electronics", "Fashion", "Food", "Sports"))
     ),
     mainPanel(
       tabsetPanel(
@@ -35,15 +30,24 @@ server <- function(input, output, session) {
   # Reactive value to store the processed data
   processed_data <- reactiveVal()
   
-  # Function to preprocess the data (same as before)
+  # Function to preprocess the data using data.table
   preprocess_data <- function(data) {
-    # ... (preprocessing logic remains the same)
+    # Convert data to data.table
+    data <- as.data.table(data)
+    
+    # Remove duplicates
+    data <- unique(data)
+    
+    # Clean text (remove punctuation, convert to lowercase)
+    data[, message := tolower(removePunctuation(message))]
+    
+    return(data)
   }
   
   # Read and process the uploaded file
   observeEvent(input$file, {
     req(input$file)
-    data <- read.csv(input$file$datapath, stringsAsFactors = FALSE)
+    data <- fread(input$file$datapath, stringsAsFactors = FALSE)
     processed <- preprocess_data(data)
     processed_data(processed)
   })
@@ -52,8 +56,10 @@ server <- function(input, output, session) {
   filtered_data <- reactive({
     req(processed_data())
     data <- processed_data()
+    
+    # Filter using data.table
     if (input$category != "All") {
-      data <- data %>% filter(category == input$category)
+      data <- data[product_category == input$category]
     }
     return(data)
   })
@@ -62,77 +68,33 @@ server <- function(input, output, session) {
   output$bestCompaniesPlot <- renderPlotly({
     req(filtered_data())
     
-    company_scores <- filtered_data() %>%
-      group_by(company) %>%
-      summarise(score = n() * mean(as.numeric(factor(offer_type))))
+    # Summarize using data.table
+    company_scores <- filtered_data()[, .(score = .N), by = company]
     
     plot_ly(company_scores, x = ~company, y = ~score, type = "bar") %>%
-      layout(title = "Best Companies by Offer Quality and Frequency",
+      layout(title = "Best Companies by Offer Frequency",
              xaxis = list(title = "Company"),
-             yaxis = list(title = "Score"))
+             yaxis = list(title = "Frequency"))
   })
   
   # Generate offer types plot
   output$offerTypesPlot <- renderPlot({
     req(filtered_data())
     
-    offer_counts <- filtered_data() %>%
-      count(offer_type)
+    # Count using data.table
+    offer_counts <- filtered_data()[, .N, by = message]
     
-    ggplot(offer_counts, aes(x = offer_type, y = n, fill = offer_type)) +
+    ggplot(offer_counts, aes(x = message, y = N, fill = message)) +
       geom_bar(stat = "identity") +
       theme_minimal() +
-      labs(title = "Distribution of Offer Types",
-           x = "Offer Type", y = "Count")
+      labs(title = "Distribution of Offer Types", x = "Offer Type", y = "Count")
   })
   
   # Generate data table
   output$dataTable <- renderDataTable({
     req(filtered_data())
-    filtered_data() %>%
-      select(company, offer_type, category, text)
+    filtered_data()[, .(company, product_category, message)]
   })
-  
-  # Download handler for processed data
-  output$downloadProcessed <- downloadHandler(
-    filename = function() {
-      paste("processed_data_", Sys.Date(), ".csv", sep = "")
-    },
-    content = function(file) {
-      write.csv(processed_data(), file, row.names = FALSE)
-    }
-  )
-  
-  # Download handler for analysis results
-  output$downloadAnalysis <- downloadHandler(
-    filename = function() {
-      paste("analysis_results_", Sys.Date(), ".csv", sep = "")
-    },
-    content = function(file) {
-      # Generate analysis results
-      company_scores <- filtered_data() %>%
-        group_by(company) %>%
-        summarise(
-          total_offers = n(),
-          avg_score = mean(as.numeric(factor(offer_type))),
-          score = total_offers * avg_score
-        )
-      
-      offer_counts <- filtered_data() %>%
-        count(offer_type) %>%
-        mutate(percentage = n / sum(n) * 100)
-      
-      # Combine results
-      analysis_results <- list(
-        company_scores = company_scores,
-        offer_counts = offer_counts
-      )
-      
-      # Write results to a CSV file
-      write.csv(analysis_results$company_scores, file, row.names = FALSE)
-      write.csv(analysis_results$offer_counts, file, append = TRUE, row.names = FALSE)
-    }
-  )
 }
 
 # Run the application
