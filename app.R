@@ -1,4 +1,3 @@
-
 library(shiny)
 library(data.table)
 library(tm)
@@ -13,7 +12,7 @@ ui <- fluidPage(
       fileInput("file", "Choose CSV File",
                 accept = c("text/csv", "text/comma-separated-values,text/plain", ".csv")),
       selectInput("category", "Select Product Category",
-                  choices = c("All", "Electronics", "Fashion", "Food"))
+                  choices = c("All", "Electronics", "Fashion", "Food", "Sports"))
     ),
     mainPanel(
       tabsetPanel(
@@ -40,22 +39,7 @@ server <- function(input, output, session) {
     data <- unique(data)
     
     # Clean text (remove punctuation, convert to lowercase)
-    data[, clean_text := tolower(removePunctuation(text))]
-    
-    # Classify company
-    data[, company := fifelse(grepl("amazon", clean_text), "Amazon", 
-                              fifelse(grepl("walmart", clean_text), "Walmart", 
-                                      fifelse(grepl("target", clean_text), "Target", "Other")))]
-    
-    # Classify offer type
-    data[, offer_type := fifelse(grepl("discount", clean_text), "Discount", 
-                                 fifelse(grepl("promotion", clean_text), "Promotion", 
-                                         fifelse(grepl("sale", clean_text), "Sale", "Other")))]
-    
-    # Classify product category
-    data[, category := fifelse(grepl("electronics|phone|laptop", clean_text), "Electronics", 
-                               fifelse(grepl("fashion|clothing|shoes", clean_text), "Fashion", 
-                                       fifelse(grepl("food|grocery|restaurant", clean_text), "Food", "Other")))]
+    data[, message := tolower(removePunctuation(message))]
     
     return(data)
   }
@@ -75,7 +59,7 @@ server <- function(input, output, session) {
     
     # Filter using data.table
     if (input$category != "All") {
-      data <- data[category == input$category]
+      data <- data[product_category == input$category]
     }
     return(data)
   })
@@ -85,12 +69,12 @@ server <- function(input, output, session) {
     req(filtered_data())
     
     # Summarize using data.table
-    company_scores <- filtered_data()[, .(score = .N * mean(as.numeric(factor(offer_type)))), by = company]
+    company_scores <- filtered_data()[, .(score = .N), by = company]
     
     plot_ly(company_scores, x = ~company, y = ~score, type = "bar") %>%
-      layout(title = "Best Companies by Offer Quality and Frequency",
+      layout(title = "Best Companies by Offer Frequency",
              xaxis = list(title = "Company"),
-             yaxis = list(title = "Score"))
+             yaxis = list(title = "Frequency"))
   })
   
   # Generate offer types plot
@@ -98,9 +82,9 @@ server <- function(input, output, session) {
     req(filtered_data())
     
     # Count using data.table
-    offer_counts <- filtered_data()[, .N, by = offer_type]
+    offer_counts <- filtered_data()[, .N, by = message]
     
-    ggplot(offer_counts, aes(x = offer_type, y = N, fill = offer_type)) +
+    ggplot(offer_counts, aes(x = message, y = N, fill = message)) +
       geom_bar(stat = "identity") +
       theme_minimal() +
       labs(title = "Distribution of Offer Types", x = "Offer Type", y = "Count")
@@ -109,7 +93,7 @@ server <- function(input, output, session) {
   # Generate data table
   output$dataTable <- renderDataTable({
     req(filtered_data())
-    filtered_data()[, .(company, offer_type, category, text)]
+    filtered_data()[, .(company, product_category, message)]
   })
 }
 
