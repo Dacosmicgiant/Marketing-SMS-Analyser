@@ -1,3 +1,4 @@
+
 # Required packages
 library(shiny)
 library(tidyverse)
@@ -5,6 +6,7 @@ library(tm)
 library(ggplot2)
 library(quanteda)
 library(plotly)
+library(caret)
 
 # UI
 ui <- fluidPage(
@@ -40,39 +42,59 @@ server <- function(input, output, session) {
     # Clean text (remove punctuation, convert to lowercase)
     data$clean_text <- tolower(removePunctuation(data$text))
     
-    # Classify company (example logic, replace with your own)
-    data$company <- sapply(data$clean_text, function(text) {
-      if (grepl("amazon", text)) return("Amazon")
-      if (grepl("walmart", text)) return("Walmart")
-      if (grepl("target", text)) return("Target")
-      return("Other")
-    })
+    # Create a document-feature matrix using quanteda
+    corpus <- corpus(data$clean_text)
+    dfm <- dfm(corpus, tolower = TRUE, remove_punct = TRUE) %>%
+      dfm_trim(min_termfreq = 5, verbose = FALSE)
     
-    # Classify offer type (example logic, replace with your own)
-    data$offer_type <- sapply(data$clean_text, function(text) {
-      if (grepl("discount", text)) return("Discount")
-      if (grepl("promotion", text)) return("Promotion")
-      if (grepl("sale", text)) return("Sale")
-      return("Other")
-    })
+    # Convert to a data frame for model training
+    dfm_data <- as.data.frame(as.matrix(dfm))
+    dfm_data$company <- factor(ifelse(grepl("amazon", data$clean_text), "Amazon",
+                                      ifelse(grepl("walmart", data$clean_text), "Walmart", 
+                                             ifelse(grepl("target", data$clean_text), "Target", "Other"))))
     
-    # Classify product category (example logic, replace with your own)
-    data$category <- sapply(data$clean_text, function(text) {
-      if (grepl("electronics|phone|laptop", text)) return("Electronics")
-      if (grepl("fashion|clothing|shoes", text)) return("Fashion")
-      if (grepl("food|grocery|restaurant", text)) return("Food")
-      return("Other")
-    })
+    return(list(dfm_data = dfm_data, dfm_matrix = dfm))
+  }
+  
+  # Train a Machine Learning model
+  train_model <- function(dfm_data) {
+    # Split the data into training and testing sets
+    set.seed(123)
+    training_indices <- createDataPartition(dfm_data$company, p = 0.8, list = FALSE)
+    training_data <- dfm_data[training_indices, ]
+    testing_data <- dfm_data[-training_indices, ]
     
-    return(data)
+    # Train a Naive Bayes model
+    model <- train(company ~ ., data = training_data, method = "nb",
+                   trControl = trainControl(method = "cv", number = 5))
+    
+    return(list(model = model, testing_data = testing_data))
+  }
+  
+  # Predict using the trained model
+  predict_company <- function(model, dfm_matrix) {
+    predictions <- predict(model, dfm_matrix)
+    return(predictions)
   }
   
   # Read and process the uploaded file
   observeEvent(input$file, {
     req(input$file)
     data <- read.csv(input$file$datapath, stringsAsFactors = FALSE)
+    
+    # Preprocess the data
     processed <- preprocess_data(data)
-    processed_data(processed)
+    dfm_data <- processed$dfm_data
+    
+    # Train the model
+    model_info <- train_model(dfm_data)
+    model <- model_info$model
+    
+    # Predict company for each SMS
+    predictions <- predict_company(model, processed$dfm_matrix)
+    data$predicted_company <- predictions
+    
+    processed_data(data)
   })
   
   # Filter data based on selected category
@@ -90,11 +112,11 @@ server <- function(input, output, session) {
     req(filtered_data())
     
     company_scores <- filtered_data() %>%
-      group_by(company) %>%
-      summarise(score = n() * mean(as.numeric(factor(offer_type))))
+      group_by(predicted_company) %>%
+      summarise(score = n())
     
-    plot_ly(company_scores, x = ~company, y = ~score, type = "bar") %>%
-      layout(title = "Best Companies by Offer Quality and Frequency",
+    plot_ly(company_scores, x = ~predicted_company, y = ~score, type = "bar") %>%
+      layout(title = "Best Companies by Offer Classification",
              xaxis = list(title = "Company"),
              yaxis = list(title = "Score"))
   })
@@ -117,7 +139,7 @@ server <- function(input, output, session) {
   output$dataTable <- renderDataTable({
     req(filtered_data())
     filtered_data() %>%
-      select(company, offer_type, category, text)
+      select(predicted_company, offer_type, category, text)
   })
 }
 
