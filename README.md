@@ -21,7 +21,9 @@ The SMS Offer Analysis Shiny App is a powerful tool designed to analyze SMS data
 
 ## 📸 Screenshots
 
-[Insert screenshots of your Shiny app here]
+![image](https://github.com/user-attachments/assets/95e0e7ce-5519-4dd2-abfe-bd2905d39314)
+![image](https://github.com/user-attachments/assets/e676b45c-56b1-4885-b9a7-1b81dfc8f956)
+![image](https://github.com/user-attachments/assets/dd71e62d-9264-41b6-9fad-e4cb1581e088)
 
 ## 🛠️ Installation
 
