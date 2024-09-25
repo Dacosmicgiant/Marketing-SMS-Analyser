@@ -1,9 +1,8 @@
-# Required packages
+
 library(shiny)
-library(tidyverse)
+library(data.table)
 library(tm)
 library(ggplot2)
-library(quanteda)
 library(plotly)
 
 # UI
@@ -32,37 +31,31 @@ server <- function(input, output, session) {
   # Reactive value to store the processed data
   processed_data <- reactiveVal()
   
-  # Function to preprocess the data
+  # Function to preprocess the data using data.table
   preprocess_data <- function(data) {
+    # Convert data to data.table
+    data <- as.data.table(data)
+    
     # Remove duplicates
-    data <- distinct(data)
+    data <- unique(data)
     
     # Clean text (remove punctuation, convert to lowercase)
-    data$clean_text <- tolower(removePunctuation(data$text))
+    data[, clean_text := tolower(removePunctuation(text))]
     
-    # Classify company (example logic, replace with your own)
-    data$company <- sapply(data$clean_text, function(text) {
-      if (grepl("amazon", text)) return("Amazon")
-      if (grepl("walmart", text)) return("Walmart")
-      if (grepl("target", text)) return("Target")
-      return("Other")
-    })
+    # Classify company
+    data[, company := fifelse(grepl("amazon", clean_text), "Amazon", 
+                              fifelse(grepl("walmart", clean_text), "Walmart", 
+                                      fifelse(grepl("target", clean_text), "Target", "Other")))]
     
-    # Classify offer type (example logic, replace with your own)
-    data$offer_type <- sapply(data$clean_text, function(text) {
-      if (grepl("discount", text)) return("Discount")
-      if (grepl("promotion", text)) return("Promotion")
-      if (grepl("sale", text)) return("Sale")
-      return("Other")
-    })
+    # Classify offer type
+    data[, offer_type := fifelse(grepl("discount", clean_text), "Discount", 
+                                 fifelse(grepl("promotion", clean_text), "Promotion", 
+                                         fifelse(grepl("sale", clean_text), "Sale", "Other")))]
     
-    # Classify product category (example logic, replace with your own)
-    data$category <- sapply(data$clean_text, function(text) {
-      if (grepl("electronics|phone|laptop", text)) return("Electronics")
-      if (grepl("fashion|clothing|shoes", text)) return("Fashion")
-      if (grepl("food|grocery|restaurant", text)) return("Food")
-      return("Other")
-    })
+    # Classify product category
+    data[, category := fifelse(grepl("electronics|phone|laptop", clean_text), "Electronics", 
+                               fifelse(grepl("fashion|clothing|shoes", clean_text), "Fashion", 
+                                       fifelse(grepl("food|grocery|restaurant", clean_text), "Food", "Other")))]
     
     return(data)
   }
@@ -70,7 +63,7 @@ server <- function(input, output, session) {
   # Read and process the uploaded file
   observeEvent(input$file, {
     req(input$file)
-    data <- read.csv(input$file$datapath, stringsAsFactors = FALSE)
+    data <- fread(input$file$datapath, stringsAsFactors = FALSE)
     processed <- preprocess_data(data)
     processed_data(processed)
   })
@@ -79,8 +72,10 @@ server <- function(input, output, session) {
   filtered_data <- reactive({
     req(processed_data())
     data <- processed_data()
+    
+    # Filter using data.table
     if (input$category != "All") {
-      data <- data %>% filter(category == input$category)
+      data <- data[category == input$category]
     }
     return(data)
   })
@@ -89,9 +84,8 @@ server <- function(input, output, session) {
   output$bestCompaniesPlot <- renderPlotly({
     req(filtered_data())
     
-    company_scores <- filtered_data() %>%
-      group_by(company) %>%
-      summarise(score = n() * mean(as.numeric(factor(offer_type))))
+    # Summarize using data.table
+    company_scores <- filtered_data()[, .(score = .N * mean(as.numeric(factor(offer_type)))), by = company]
     
     plot_ly(company_scores, x = ~company, y = ~score, type = "bar") %>%
       layout(title = "Best Companies by Offer Quality and Frequency",
@@ -103,21 +97,19 @@ server <- function(input, output, session) {
   output$offerTypesPlot <- renderPlot({
     req(filtered_data())
     
-    offer_counts <- filtered_data() %>%
-      count(offer_type)
+    # Count using data.table
+    offer_counts <- filtered_data()[, .N, by = offer_type]
     
-    ggplot(offer_counts, aes(x = offer_type, y = n, fill = offer_type)) +
+    ggplot(offer_counts, aes(x = offer_type, y = N, fill = offer_type)) +
       geom_bar(stat = "identity") +
       theme_minimal() +
-      labs(title = "Distribution of Offer Types",
-           x = "Offer Type", y = "Count")
+      labs(title = "Distribution of Offer Types", x = "Offer Type", y = "Count")
   })
   
   # Generate data table
   output$dataTable <- renderDataTable({
     req(filtered_data())
-    filtered_data() %>%
-      select(company, offer_type, category, text)
+    filtered_data()[, .(company, offer_type, category, text)]
   })
 }
 
