@@ -131,7 +131,6 @@ For detailed documentation on each component:
 - [Data Processing Guide](docs/data-processing.md)
 - [Analysis Methods](docs/analysis-methods.md)
 - [Dashboard User Guide](docs/dashboard-guide.md)
-- [API Documentation](docs/api-docs.md)
 
 ## 🤝 Contributing
 
