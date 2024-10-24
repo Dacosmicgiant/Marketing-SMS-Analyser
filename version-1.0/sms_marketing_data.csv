@@ -1,0 +1,1001 @@
+date,company,product_category,message,discount_percentage,response_rate
+2024-01-31,FitGear,Sports,weekend special: save 25%,25,1.35312511722441
+2024-03-19,QuickBite,Food,get 25% off on your next purchase,13,1.08894867671421
+2024-02-20,FitGear,Sports,weekend special: save 25%,48,0.0415735465381295
+2024-01-14,FitGear,Sports,flash sale: 25% discount today only,43,1.41016338883946
+2024-03-07,FitGear,Sports,flash sale: 25% discount today only,55,0.568503852724098
+2024-02-11,QuickBite,Food,exclusive member discount: 25% off,37,0.5820622699745
+2024-02-19,FashionHub,Fashion,get 25% off on your next purchase,45,0.0281252169748768
+2024-02-12,SportMaster,Sports,flash sale: 25% discount today only,58,1.1990523378551
+2024-01-14,FoodExpress,Food,weekend special: save 25%,28,0.266311954128742
+2024-01-25,QuickBite,Food,seasonal sale: 25% off selected items,32,0.163024280011654
+2024-03-30,QuickBite,Food,seasonal sale: 25% off selected items,17,1.002194427629
+2024-03-31,ElectroWorld,Electronics,buy one get one free offer,28,0.683856310844421
+2024-03-09,FitGear,Sports,special discount: save up to 25%,16,0.036388025008142
+2024-03-31,TechGiant,Electronics,flash sale: 25% discount today only,21,1.33546963666566
+2024-02-26,QuickBite,Food,flash sale: 25% discount today only,11,0.871272700934205
+2024-01-09,TechGiant,Electronics,seasonal sale: 25% off selected items,27,0.593877806357108
+2024-03-12,ElectroWorld,Electronics,weekend special: save 25%,66,0.214370002313517
+2024-01-26,FoodExpress,Food,get 25% off on your next purchase,57,1.41392601428903
+2024-01-07,FashionHub,Fashion,seasonal sale: 25% off selected items,67,1.58012874744991
+2024-02-11,StyleCo,Fashion,get 25% off on your next purchase,32,0.652904688611627
+2024-01-09,ElectroWorld,Electronics,seasonal sale: 25% off selected items,58,0.303996540189255
+2024-03-23,StyleCo,Fashion,seasonal sale: 25% off selected items,20,0.0155234080553055
+2024-02-05,SportMaster,Sports,buy one get one free offer,11,0.378402035348117
+2024-03-18,QuickBite,Food,special discount: save up to 25%,68,0.318145113028586
+2024-03-21,TechGiant,Electronics,special discount: save up to 25%,55,0.871630922041368
+2024-02-12,ElectroWorld,Electronics,clearance sale: extra 25% off,34,0.788093377649784
+2024-03-16,ElectroWorld,Electronics,special discount: save up to 25%,34,0.453063447905704
+2024-01-15,FitGear,Sports,get 25% off on your next purchase,26,1.2834205834656
+2024-02-01,TechGiant,Electronics,special discount: save up to 25%,31,0.922269383147359
+2024-01-07,FitGear,Sports,get 25% off on your next purchase,22,0.445204790475033
+2024-01-09,TechGiant,Electronics,weekend special: save 25%,31,1.03057650117041
+2024-02-10,ElectroWorld,Electronics,seasonal sale: 25% off selected items,34,0.978818389568478
+2024-03-14,StyleCo,Fashion,get 25% off on your next purchase,64,0.669471796704456
+2024-01-23,StyleCo,Fashion,clearance sale: extra 25% off,18,0.217178334241733
+2024-01-27,StyleCo,Fashion,weekend special: save 25%,56,0.0503742484532297
+2024-02-29,SportMaster,Sports,clearance sale: extra 25% off,69,0.261453285000753
+2024-02-22,QuickBite,Food,buy one get one free offer,44,0.844678666256368
+2024-01-07,StyleCo,Fashion,flash sale: 25% discount today only,33,0.383574013983272
+2024-02-22,FitGear,Sports,get 25% off on your next purchase,67,0.0741340559022501
+2024-01-27,StyleCo,Fashion,get 25% off on your next purchase,47,1.77451532197678
+2024-02-07,StyleCo,Fashion,weekend special: save 25%,51,1.31391654425534
+2024-03-29,ElectroWorld,Electronics,flash sale: 25% discount today only,21,1.00002958824392
+2024-02-03,StyleCo,Fashion,seasonal sale: 25% off selected items,24,0.907190097626299
+2024-03-09,SportMaster,Sports,exclusive member discount: 25% off,50,1.30253751142882
+2024-03-12,QuickBite,Food,get 25% off on your next purchase,66,1.32282685302198
+2024-03-16,FitGear,Sports,exclusive member discount: 25% off,24,1.29109872194007
+2024-03-03,ElectroWorld,Electronics,weekend special: save 25%,45,1.21859120253939
+2024-01-13,QuickBite,Food,weekend special: save 25%,34,0.593658707304485
+2024-03-22,QuickBite,Food,exclusive member discount: 25% off,50,0.746460721828044
+2024-03-31,QuickBite,Food,weekend special: save 25%,14,1.06190486414172
+2024-01-25,ElectroWorld,Electronics,exclusive member discount: 25% off,23,0.56712165862089
+2024-02-07,FitGear,Sports,exclusive member discount: 25% off,26,0.734607075517997
+2024-01-21,QuickBite,Food,buy one get one free offer,11,0.440371755363978
+2024-03-19,StyleCo,Fashion,get 25% off on your next purchase,60,0.235305335372686
+2024-02-10,FitGear,Sports,flash sale: 25% discount today only,46,0.482770430848002
+2024-02-16,TechGiant,Electronics,weekend special: save 25%,33,0.269949093568139
+2024-03-30,QuickBite,Food,seasonal sale: 25% off selected items,20,0.324281372576952
+2024-02-29,FashionHub,Fashion,buy one get one free offer,42,0.738343051807024
+2024-01-16,StyleCo,Fashion,seasonal sale: 25% off selected items,16,1.17471516340785
+2024-01-06,QuickBite,Food,special discount: save up to 25%,24,0.951733815678209
+2024-03-12,QuickBite,Food,clearance sale: extra 25% off,35,0.353025806893129
+2024-03-26,QuickBite,Food,special discount: save up to 25%,46,0.545995319001377
+2024-03-26,ElectroWorld,Electronics,flash sale: 25% discount today only,32,0.74387135244906
+2024-02-08,TechGiant,Electronics,get 25% off on your next purchase,20,0.191406913474202
+2024-01-31,FitGear,Sports,seasonal sale: 25% off selected items,57,1.15847564062499
+2024-03-21,QuickBite,Food,flash sale: 25% discount today only,34,0.0244803004059941
+2024-02-19,QuickBite,Food,get 25% off on your next purchase,19,0.014742005141452
+2024-02-03,ElectroWorld,Electronics,get 25% off on your next purchase,43,1.14056941992603
+2024-01-04,QuickBite,Food,buy one get one free offer,37,0.309784533182392
+2024-01-13,SportMaster,Sports,special discount: save up to 25%,15,0.582749829477165
+2024-03-09,FitGear,Sports,clearance sale: extra 25% off,21,0.231599272976629
+2024-01-25,StyleCo,Fashion,clearance sale: extra 25% off,28,0.997641883939505
+2024-02-21,FoodExpress,Food,get 25% off on your next purchase,53,0.94056881477125
+2024-01-22,SportMaster,Sports,get 25% off on your next purchase,44,0.0967275150753558
+2024-03-29,FoodExpress,Food,buy one get one free offer,17,0.475318843382411
+2024-02-01,TechGiant,Electronics,buy one get one free offer,64,0.172268456649035
+2024-01-25,TechGiant,Electronics,get 25% off on your next purchase,37,0.606575940443203
+2024-03-27,TechGiant,Electronics,flash sale: 25% discount today only,54,0.701741944439709
+2024-02-04,ElectroWorld,Electronics,weekend special: save 25%,57,1.17683164426591
+2024-02-09,StyleCo,Fashion,special discount: save up to 25%,11,0.087529360873159
+2024-01-30,StyleCo,Fashion,exclusive member discount: 25% off,22,0.458940816427581
+2024-01-12,QuickBite,Food,weekend special: save 25%,54,0.0401245764773339
+2024-01-31,QuickBite,Food,clearance sale: extra 25% off,62,0.608582293239422
+2024-01-30,StyleCo,Fashion,special discount: save up to 25%,47,1.26669509806554
+2024-03-04,TechGiant,Electronics,exclusive member discount: 25% off,28,0.948749096691608
+2024-01-14,FitGear,Sports,seasonal sale: 25% off selected items,40,1.50828420982137
+2024-03-11,SportMaster,Sports,seasonal sale: 25% off selected items,20,0.0666759791783989
+2024-03-07,FitGear,Sports,special discount: save up to 25%,53,0.231815712566022
+2024-01-23,ElectroWorld,Electronics,weekend special: save 25%,20,0.862099850904196
+2024-03-19,QuickBite,Food,clearance sale: extra 25% off,38,0.542048811251298
+2024-03-25,FashionHub,Fashion,flash sale: 25% discount today only,42,0.260958694545552
+2024-02-06,TechGiant,Electronics,seasonal sale: 25% off selected items,36,0.174628020878881
+2024-01-08,SportMaster,Sports,exclusive member discount: 25% off,34,0.189993198682554
+2024-02-20,ElectroWorld,Electronics,flash sale: 25% discount today only,17,0.730268082486
+2024-03-14,StyleCo,Fashion,clearance sale: extra 25% off,66,0.833324542292394
+2024-02-19,FoodExpress,Food,clearance sale: extra 25% off,42,0.693189763883129
+2024-03-14,TechGiant,Electronics,get 25% off on your next purchase,37,1.19575845223852
+2024-03-26,FitGear,Sports,clearance sale: extra 25% off,65,0.317291142151225
+2024-03-16,StyleCo,Fashion,exclusive member discount: 25% off,49,1.35834951531887
+2024-03-24,SportMaster,Sports,buy one get one free offer,68,0.442312574319542
+2024-02-15,SportMaster,Sports,seasonal sale: 25% off selected items,53,0.239678014246747
+2024-01-17,FitGear,Sports,weekend special: save 25%,17,0.185455942071509
+2024-03-02,TechGiant,Electronics,buy one get one free offer,25,1.32953316438943
+2024-02-15,StyleCo,Fashion,flash sale: 25% discount today only,19,0.795773701216094
+2024-02-23,QuickBite,Food,clearance sale: extra 25% off,24,0.566432269131765
+2024-02-04,StyleCo,Fashion,weekend special: save 25%,51,1.29739775881358
+2024-03-19,TechGiant,Electronics,seasonal sale: 25% off selected items,33,0.94051839067135
+2024-01-24,FitGear,Sports,seasonal sale: 25% off selected items,49,1.05997089330596
+2024-03-27,FoodExpress,Food,special discount: save up to 25%,37,1.25488343327772
+2024-01-07,QuickBite,Food,special discount: save up to 25%,49,0.392661913849879
+2024-03-19,SportMaster,Sports,special discount: save up to 25%,11,0.482841959414072
+2024-01-23,FitGear,Sports,get 25% off on your next purchase,55,0.0631462085957173
+2024-01-26,ElectroWorld,Electronics,flash sale: 25% discount today only,27,0.219911709083943
+2024-02-01,StyleCo,Fashion,weekend special: save 25%,20,0.84269703598693
+2024-01-07,TechGiant,Electronics,special discount: save up to 25%,11,1.08436291893655
+2024-01-27,TechGiant,Electronics,flash sale: 25% discount today only,69,0.958644016561937
+2024-02-11,ElectroWorld,Electronics,seasonal sale: 25% off selected items,28,0.539034562468529
+2024-01-05,FoodExpress,Food,flash sale: 25% discount today only,57,0.836366746816086
+2024-03-10,SportMaster,Sports,exclusive member discount: 25% off,11,0.0314460662920028
+2024-01-16,FoodExpress,Food,buy one get one free offer,66,1.55026289200923
+2024-01-24,StyleCo,Fashion,flash sale: 25% discount today only,50,1.0768668681616
+2024-02-01,FashionHub,Fashion,special discount: save up to 25%,32,0.2452434568014
+2024-01-21,FashionHub,Fashion,special discount: save up to 25%,14,0.823692457426898
+2024-02-24,SportMaster,Sports,exclusive member discount: 25% off,67,1.75087748450786
+2024-03-15,FitGear,Sports,exclusive member discount: 25% off,15,0.263931102561764
+2024-02-05,FitGear,Sports,clearance sale: extra 25% off,59,0.540175720858388
+2024-03-23,FoodExpress,Food,flash sale: 25% discount today only,26,1.17358478775434
+2024-03-29,FashionHub,Fashion,get 25% off on your next purchase,36,0.323496092893183
+2024-02-08,SportMaster,Sports,exclusive member discount: 25% off,21,0.0924633056577295
+2024-02-23,SportMaster,Sports,buy one get one free offer,24,0.518933311635628
+2024-03-30,ElectroWorld,Electronics,seasonal sale: 25% off selected items,43,0.342246374901384
+2024-01-09,ElectroWorld,Electronics,exclusive member discount: 25% off,23,0.881802891405299
+2024-03-11,FitGear,Sports,clearance sale: extra 25% off,11,0.690086945230141
+2024-02-17,TechGiant,Electronics,buy one get one free offer,25,0.626881095464341
+2024-03-17,ElectroWorld,Electronics,flash sale: 25% discount today only,24,0.221246507406235
+2024-03-23,FoodExpress,Food,buy one get one free offer,70,0.37520739284344
+2024-02-25,StyleCo,Fashion,get 25% off on your next purchase,19,0.607414775211364
+2024-02-08,FitGear,Sports,special discount: save up to 25%,68,0.653714569676668
+2024-03-08,FashionHub,Fashion,flash sale: 25% discount today only,62,0.0927497194614261
+2024-01-01,TechGiant,Electronics,seasonal sale: 25% off selected items,33,0.00806419200194068
+2024-02-09,QuickBite,Food,buy one get one free offer,36,1.20087859015912
+2024-01-30,TechGiant,Electronics,special discount: save up to 25%,12,0.376434236917645
+2024-03-29,FitGear,Sports,clearance sale: extra 25% off,43,1.37634221915621
+2024-01-16,FoodExpress,Food,seasonal sale: 25% off selected items,52,1.12992566714808
+2024-03-28,FashionHub,Fashion,clearance sale: extra 25% off,49,1.27290334627265
+2024-02-23,FashionHub,Fashion,seasonal sale: 25% off selected items,68,0.727097535487264
+2024-03-15,StyleCo,Fashion,flash sale: 25% discount today only,39,1.28657932083355
+2024-02-17,FoodExpress,Food,weekend special: save 25%,25,1.13156517909374
+2024-01-20,ElectroWorld,Electronics,special discount: save up to 25%,18,0.431523176795617
+2024-03-07,ElectroWorld,Electronics,get 25% off on your next purchase,66,1.13960691214539
+2024-02-05,ElectroWorld,Electronics,exclusive member discount: 25% off,56,1.43730171617121
+2024-02-21,StyleCo,Fashion,seasonal sale: 25% off selected items,22,0.903710022671148
+2024-01-22,SportMaster,Sports,seasonal sale: 25% off selected items,64,1.21320091499295
+2024-02-18,FitGear,Sports,weekend special: save 25%,36,1.2143751141876
+2024-02-11,TechGiant,Electronics,clearance sale: extra 25% off,27,0.172754610422999
+2024-02-28,FitGear,Sports,flash sale: 25% discount today only,56,0.0640446572005749
+2024-03-24,StyleCo,Fashion,clearance sale: extra 25% off,53,0.685049435508438
+2024-01-11,StyleCo,Fashion,special discount: save up to 25%,62,0.893957168329507
+2024-02-24,FashionHub,Fashion,flash sale: 25% discount today only,18,1.34574401248433
+2024-01-08,SportMaster,Sports,flash sale: 25% discount today only,70,1.77361339760479
+2024-02-15,QuickBite,Food,get 25% off on your next purchase,44,0.928250379860401
+2024-03-25,ElectroWorld,Electronics,weekend special: save 25%,54,0.485779451653361
+2024-03-06,FashionHub,Fashion,get 25% off on your next purchase,67,0.889051505203825
+2024-03-17,SportMaster,Sports,buy one get one free offer,18,0.955310764219612
+2024-02-15,FitGear,Sports,special discount: save up to 25%,57,1.34579921022756
+2024-03-10,FitGear,Sports,buy one get one free offer,14,0.761990204097703
+2024-03-12,QuickBite,Food,flash sale: 25% discount today only,49,0.140645798628684
+2024-02-13,TechGiant,Electronics,clearance sale: extra 25% off,37,0.97439943329664
+2024-02-01,QuickBite,Food,special discount: save up to 25%,27,1.06073145154165
+2024-02-05,ElectroWorld,Electronics,buy one get one free offer,15,0.451719350193162
+2024-02-14,QuickBite,Food,get 25% off on your next purchase,49,0.290143296383321
+2024-01-14,StyleCo,Fashion,buy one get one free offer,52,0.518445127375424
+2024-01-16,SportMaster,Sports,clearance sale: extra 25% off,52,0.0621086573302746
+2024-03-27,ElectroWorld,Electronics,weekend special: save 25%,31,0.69257533850614
+2024-02-02,FashionHub,Fashion,special discount: save up to 25%,69,0.998388285343535
+2024-02-09,StyleCo,Fashion,get 25% off on your next purchase,35,0.786122847022489
+2024-02-09,ElectroWorld,Electronics,buy one get one free offer,47,1.31865520397667
+2024-01-10,StyleCo,Fashion,flash sale: 25% discount today only,45,0.680242311529582
+2024-03-29,SportMaster,Sports,flash sale: 25% discount today only,24,0.29460225045681
+2024-03-12,TechGiant,Electronics,seasonal sale: 25% off selected items,58,0.80981469176244
+2024-03-22,FashionHub,Fashion,special discount: save up to 25%,36,0.090451553221792
+2024-01-09,QuickBite,Food,exclusive member discount: 25% off,17,0.848895868971711
+2024-01-07,StyleCo,Fashion,seasonal sale: 25% off selected items,66,1.60969540083669
+2024-01-07,QuickBite,Food,exclusive member discount: 25% off,31,0.378383908881806
+2024-02-27,QuickBite,Food,clearance sale: extra 25% off,52,0.288521109111607
+2024-03-01,FashionHub,Fashion,exclusive member discount: 25% off,63,1.42264719552128
+2024-03-14,FashionHub,Fashion,exclusive member discount: 25% off,59,0.464068312773015
+2024-01-24,StyleCo,Fashion,special discount: save up to 25%,34,1.45354603923438
+2024-03-03,ElectroWorld,Electronics,special discount: save up to 25%,23,1.07621927261911
+2024-02-23,QuickBite,Food,exclusive member discount: 25% off,53,1.42319023794495
+2024-01-23,ElectroWorld,Electronics,special discount: save up to 25%,17,0.967514994612895
+2024-01-26,FoodExpress,Food,weekend special: save 25%,12,0.400109311129898
+2024-02-02,FashionHub,Fashion,get 25% off on your next purchase,51,0.566864802148193
+2024-02-26,StyleCo,Fashion,get 25% off on your next purchase,28,0.0437250968813896
+2024-01-29,FitGear,Sports,flash sale: 25% discount today only,40,1.37803364218213
+2024-01-10,StyleCo,Fashion,special discount: save up to 25%,53,0.877871778039029
+2024-02-22,FashionHub,Fashion,weekend special: save 25%,55,0.534444167651236
+2024-02-23,FoodExpress,Food,weekend special: save 25%,66,1.34566960092634
+2024-03-17,StyleCo,Fashion,seasonal sale: 25% off selected items,54,1.46329088358209
+2024-01-11,FoodExpress,Food,clearance sale: extra 25% off,15,0.988909882031148
+2024-01-25,FoodExpress,Food,flash sale: 25% discount today only,64,0.959797981673852
+2024-02-21,SportMaster,Sports,special discount: save up to 25%,35,0.147684560297057
+2024-01-26,QuickBite,Food,weekend special: save 25%,38,1.34849937540432
+2024-01-07,TechGiant,Electronics,clearance sale: extra 25% off,48,0.259481698189303
+2024-01-25,ElectroWorld,Electronics,exclusive member discount: 25% off,30,1.18657767432043
+2024-03-27,StyleCo,Fashion,exclusive member discount: 25% off,66,0.918308255155571
+2024-03-30,FashionHub,Fashion,weekend special: save 25%,68,1.12345802854747
+2024-02-01,TechGiant,Electronics,buy one get one free offer,62,1.18967811901588
+2024-03-24,TechGiant,Electronics,flash sale: 25% discount today only,13,0.526747122159228
+2024-01-24,QuickBite,Food,weekend special: save 25%,19,1.05852263089386
+2024-02-26,QuickBite,Food,seasonal sale: 25% off selected items,25,1.06513081147568
+2024-03-13,TechGiant,Electronics,seasonal sale: 25% off selected items,64,1.30029369823635
+2024-01-23,StyleCo,Fashion,flash sale: 25% discount today only,25,0.573352019739104
+2024-01-14,ElectroWorld,Electronics,exclusive member discount: 25% off,44,0.316536996021867
+2024-01-06,TechGiant,Electronics,get 25% off on your next purchase,60,1.53086388623714
+2024-03-31,StyleCo,Fashion,flash sale: 25% discount today only,60,0.181743429601192
+2024-01-01,FitGear,Sports,flash sale: 25% discount today only,48,0.0925909557724372
+2024-03-30,FashionHub,Fashion,buy one get one free offer,39,0.0368337582321838
+2024-02-27,SportMaster,Sports,get 25% off on your next purchase,30,0.847973945201375
+2024-03-21,FashionHub,Fashion,clearance sale: extra 25% off,36,0.942747850120068
+2024-01-29,ElectroWorld,Electronics,exclusive member discount: 25% off,47,0.299305441219127
+2024-01-26,FashionHub,Fashion,weekend special: save 25%,70,1.48888714818284
+2024-01-27,FashionHub,Fashion,weekend special: save 25%,70,1.7745533955507
+2024-03-25,ElectroWorld,Electronics,flash sale: 25% discount today only,56,0.985152898365632
+2024-01-07,SportMaster,Sports,seasonal sale: 25% off selected items,11,1.39975363295758
+2024-02-29,FoodExpress,Food,weekend special: save 25%,55,0.224395913095213
+2024-01-26,StyleCo,Fashion,exclusive member discount: 25% off,45,0.0973800339945592
+2024-02-10,ElectroWorld,Electronics,seasonal sale: 25% off selected items,63,1.84162558087148
+2024-03-24,StyleCo,Fashion,weekend special: save 25%,63,1.65622644929588
+2024-01-06,FoodExpress,Food,flash sale: 25% discount today only,19,0.558634012512211
+2024-01-31,SportMaster,Sports,weekend special: save 25%,46,0.644453266853932
+2024-01-17,TechGiant,Electronics,clearance sale: extra 25% off,53,1.61969103444926
+2024-03-04,StyleCo,Fashion,weekend special: save 25%,13,0.110044053350575
+2024-02-06,SportMaster,Sports,weekend special: save 25%,44,1.02142215102911
+2024-02-26,QuickBite,Food,special discount: save up to 25%,16,0.642331782821566
+2024-01-20,StyleCo,Fashion,weekend special: save 25%,20,1.39873193526641
+2024-02-04,FashionHub,Fashion,weekend special: save 25%,63,1.43371339471824
+2024-03-29,QuickBite,Food,buy one get one free offer,56,0.982062929626554
+2024-02-02,TechGiant,Electronics,exclusive member discount: 25% off,11,0.172605847036466
+2024-03-06,StyleCo,Fashion,special discount: save up to 25%,50,0.711338174063712
+2024-01-04,ElectroWorld,Electronics,flash sale: 25% discount today only,22,0.584021515599452
+2024-03-14,FoodExpress,Food,get 25% off on your next purchase,41,0.219449634491466
+2024-01-05,SportMaster,Sports,clearance sale: extra 25% off,20,1.09974118972197
+2024-01-25,SportMaster,Sports,weekend special: save 25%,32,0.418534152050503
+2024-01-08,TechGiant,Electronics,clearance sale: extra 25% off,49,1.04221815115144
+2024-02-24,SportMaster,Sports,seasonal sale: 25% off selected items,49,0.860409982829355
+2024-03-29,FitGear,Sports,clearance sale: extra 25% off,68,0.950997918695212
+2024-03-25,SportMaster,Sports,buy one get one free offer,15,0.702715139265638
+2024-02-14,FoodExpress,Food,weekend special: save 25%,14,0.120897246384993
+2024-01-18,TechGiant,Electronics,seasonal sale: 25% off selected items,38,0.738886331294663
+2024-02-11,ElectroWorld,Electronics,special discount: save up to 25%,50,0.292244274588302
+2024-01-31,SportMaster,Sports,flash sale: 25% discount today only,50,0.708464606828056
+2024-01-06,StyleCo,Fashion,buy one get one free offer,46,1.29214039783794
+2024-03-11,FoodExpress,Food,weekend special: save 25%,57,0.899282597270794
+2024-03-01,SportMaster,Sports,exclusive member discount: 25% off,69,0.451020128326491
+2024-02-17,SportMaster,Sports,get 25% off on your next purchase,51,0.543617938810028
+2024-01-17,SportMaster,Sports,special discount: save up to 25%,10,0.0129381205700338
+2024-02-14,FoodExpress,Food,flash sale: 25% discount today only,19,0.352241052689496
+2024-03-03,FoodExpress,Food,clearance sale: extra 25% off,11,0.937469367549755
+2024-02-22,FoodExpress,Food,weekend special: save 25%,44,0.104741468690336
+2024-02-22,QuickBite,Food,buy one get one free offer,54,1.50095112705603
+2024-03-03,SportMaster,Sports,seasonal sale: 25% off selected items,48,1.4231076189056
+2024-03-11,StyleCo,Fashion,seasonal sale: 25% off selected items,22,1.08702321328688
+2024-03-24,FoodExpress,Food,flash sale: 25% discount today only,63,1.01460934493691
+2024-03-22,FoodExpress,Food,weekend special: save 25%,37,0.470467755799182
+2024-01-17,FashionHub,Fashion,flash sale: 25% discount today only,24,0.636548253457993
+2024-01-02,QuickBite,Food,get 25% off on your next purchase,15,0.137430892684497
+2024-02-18,SportMaster,Sports,flash sale: 25% discount today only,70,0.467917639072985
+2024-01-02,StyleCo,Fashion,clearance sale: extra 25% off,24,0.511328483077698
+2024-01-13,QuickBite,Food,exclusive member discount: 25% off,43,0.759107186478842
+2024-01-24,SportMaster,Sports,clearance sale: extra 25% off,58,1.15739940183703
+2024-02-18,QuickBite,Food,clearance sale: extra 25% off,44,0.23944272378087
+2024-03-07,FashionHub,Fashion,weekend special: save 25%,66,0.770898023853079
+2024-03-22,FitGear,Sports,buy one get one free offer,59,0.233762821806595
+2024-01-02,StyleCo,Fashion,exclusive member discount: 25% off,19,0.72365164892422
+2024-02-06,QuickBite,Food,get 25% off on your next purchase,21,0.0332692137500271
+2024-03-03,SportMaster,Sports,get 25% off on your next purchase,17,1.13019422201067
+2024-03-16,ElectroWorld,Electronics,weekend special: save 25%,17,1.17497371773329
+2024-01-13,SportMaster,Sports,flash sale: 25% discount today only,69,0.44933778908439
+2024-02-11,TechGiant,Electronics,seasonal sale: 25% off selected items,50,0.99021567190066
+2024-03-01,ElectroWorld,Electronics,weekend special: save 25%,13,0.692636058612261
+2024-03-10,FitGear,Sports,clearance sale: extra 25% off,61,0.255110894747078
+2024-02-07,QuickBite,Food,clearance sale: extra 25% off,24,0.864650631658733
+2024-03-04,FoodExpress,Food,clearance sale: extra 25% off,26,1.10595838016365
+2024-03-20,FoodExpress,Food,exclusive member discount: 25% off,36,1.29253812516108
+2024-02-05,FitGear,Sports,special discount: save up to 25%,43,1.04944906849647
+2024-03-31,TechGiant,Electronics,flash sale: 25% discount today only,36,0.00279607882350683
+2024-03-31,TechGiant,Electronics,weekend special: save 25%,16,1.07333239095658
+2024-02-04,FoodExpress,Food,special discount: save up to 25%,36,0.561736420623958
+2024-03-27,SportMaster,Sports,special discount: save up to 25%,22,0.50104172734078
+2024-03-07,QuickBite,Food,special discount: save up to 25%,17,0.00366577248321846
+2024-02-17,SportMaster,Sports,get 25% off on your next purchase,34,0.540600479476154
+2024-03-06,FoodExpress,Food,buy one get one free offer,62,0.525504340720363
+2024-01-23,ElectroWorld,Electronics,weekend special: save 25%,62,0.821404234272894
+2024-03-07,TechGiant,Electronics,seasonal sale: 25% off selected items,63,1.34527929550502
+2024-01-09,ElectroWorld,Electronics,weekend special: save 25%,35,0.975864107290981
+2024-03-01,TechGiant,Electronics,flash sale: 25% discount today only,26,0.461938320295885
+2024-02-08,TechGiant,Electronics,special discount: save up to 25%,21,0.953625037353486
+2024-01-31,QuickBite,Food,get 25% off on your next purchase,54,0.646500637776684
+2024-03-13,SportMaster,Sports,buy one get one free offer,25,1.18002842646092
+2024-02-05,StyleCo,Fashion,flash sale: 25% discount today only,19,0.91846149729332
+2024-01-22,FoodExpress,Food,weekend special: save 25%,14,0.382910700917244
+2024-02-13,SportMaster,Sports,clearance sale: extra 25% off,56,0.375900064911693
+2024-02-10,QuickBite,Food,seasonal sale: 25% off selected items,15,0.213787315674126
+2024-02-12,FoodExpress,Food,exclusive member discount: 25% off,30,1.15459355381317
+2024-02-08,QuickBite,Food,flash sale: 25% discount today only,26,0.680612525087781
+2024-02-06,TechGiant,Electronics,flash sale: 25% discount today only,35,1.22374494841788
+2024-02-02,FashionHub,Fashion,exclusive member discount: 25% off,46,1.45816752288025
+2024-03-23,StyleCo,Fashion,seasonal sale: 25% off selected items,52,1.01269803790748
+2024-01-12,FitGear,Sports,seasonal sale: 25% off selected items,40,0.514516168711707
+2024-01-21,FoodExpress,Food,special discount: save up to 25%,57,1.38580723049585
+2024-03-21,FoodExpress,Food,weekend special: save 25%,21,1.05758411062416
+2024-03-16,StyleCo,Fashion,exclusive member discount: 25% off,38,1.61946039870568
+2024-02-04,TechGiant,Electronics,buy one get one free offer,52,0.736831528186798
+2024-01-30,TechGiant,Electronics,special discount: save up to 25%,33,1.07439223754825
+2024-03-29,TechGiant,Electronics,exclusive member discount: 25% off,17,0.369874207845423
+2024-02-19,QuickBite,Food,seasonal sale: 25% off selected items,10,0.50229877398815
+2024-02-16,FitGear,Sports,buy one get one free offer,32,0.315114034283906
+2024-03-07,TechGiant,Electronics,buy one get one free offer,44,0.996973444037139
+2024-03-22,FashionHub,Fashion,flash sale: 25% discount today only,55,0.645339703233913
+2024-03-21,FitGear,Sports,weekend special: save 25%,19,0.820860142039601
+2024-02-11,FashionHub,Fashion,special discount: save up to 25%,37,1.56127829867508
+2024-02-09,FitGear,Sports,flash sale: 25% discount today only,61,0.0820242772134952
+2024-02-11,StyleCo,Fashion,special discount: save up to 25%,32,0.979887022700161
+2024-01-26,TechGiant,Electronics,get 25% off on your next purchase,24,1.01843353300076
+2024-01-13,FashionHub,Fashion,buy one get one free offer,48,1.34209866343774
+2024-01-20,QuickBite,Food,flash sale: 25% discount today only,38,1.59294161649719
+2024-01-20,QuickBite,Food,buy one get one free offer,64,1.73008911921009
+2024-03-24,SportMaster,Sports,seasonal sale: 25% off selected items,31,1.38737765468471
+2024-02-10,TechGiant,Electronics,special discount: save up to 25%,66,1.95386361075752
+2024-01-08,FitGear,Sports,seasonal sale: 25% off selected items,25,0.754310555319535
+2024-02-08,FoodExpress,Food,weekend special: save 25%,40,1.09341814792715
+2024-03-14,QuickBite,Food,seasonal sale: 25% off selected items,21,0.701175876492634
+2024-03-21,FoodExpress,Food,special discount: save up to 25%,29,0.0990383283910342
+2024-03-03,ElectroWorld,Electronics,flash sale: 25% discount today only,18,0.663810970226303
+2024-03-22,StyleCo,Fashion,clearance sale: extra 25% off,37,0.206434795469977
+2024-01-11,StyleCo,Fashion,clearance sale: extra 25% off,12,0.685328827183694
+2024-01-02,FashionHub,Fashion,exclusive member discount: 25% off,60,0.0985227550938726
+2024-01-19,SportMaster,Sports,flash sale: 25% discount today only,54,1.2477013922492
+2024-03-17,SportMaster,Sports,special discount: save up to 25%,70,0.00447977864183485
+2024-01-13,FashionHub,Fashion,weekend special: save 25%,49,0.1717301659422
+2024-01-31,TechGiant,Electronics,exclusive member discount: 25% off,66,1.64632527920604
+2024-01-30,FashionHub,Fashion,clearance sale: extra 25% off,69,1.81095961113577
+2024-01-22,ElectroWorld,Electronics,buy one get one free offer,58,0.540084539476782
+2024-03-14,FashionHub,Fashion,flash sale: 25% discount today only,68,1.07854966565967
+2024-01-16,FitGear,Sports,exclusive member discount: 25% off,13,0.812384692710592
+2024-03-09,ElectroWorld,Electronics,exclusive member discount: 25% off,19,0.874338629527017
+2024-02-05,StyleCo,Fashion,buy one get one free offer,58,1.39248767395038
+2024-02-19,TechGiant,Electronics,get 25% off on your next purchase,19,0.929980749818496
+2024-02-02,FoodExpress,Food,exclusive member discount: 25% off,14,0.346997823324055
+2024-03-20,StyleCo,Fashion,special discount: save up to 25%,20,0.0648158803582191
+2024-01-28,SportMaster,Sports,clearance sale: extra 25% off,50,0.883711075745523
+2024-02-18,TechGiant,Electronics,buy one get one free offer,21,0.618577435347252
+2024-01-12,TechGiant,Electronics,buy one get one free offer,14,0.798706177726854
+2024-02-22,SportMaster,Sports,seasonal sale: 25% off selected items,33,0.990454193779733
+2024-01-28,ElectroWorld,Electronics,exclusive member discount: 25% off,13,0.879077922866028
+2024-03-06,FashionHub,Fashion,flash sale: 25% discount today only,69,0.782222818974406
+2024-02-19,FitGear,Sports,weekend special: save 25%,43,0.31370223679347
+2024-03-16,TechGiant,Electronics,clearance sale: extra 25% off,41,0.767287106819451
+2024-02-16,FitGear,Sports,get 25% off on your next purchase,10,0.844309522188269
+2024-02-20,TechGiant,Electronics,clearance sale: extra 25% off,28,0.330547136068344
+2024-01-06,QuickBite,Food,weekend special: save 25%,57,1.46589503336549
+2024-03-20,FitGear,Sports,exclusive member discount: 25% off,20,0.934470659773797
+2024-01-15,FashionHub,Fashion,weekend special: save 25%,48,0.629224315263331
+2024-01-19,FitGear,Sports,buy one get one free offer,38,0.468395019487012
+2024-02-28,QuickBite,Food,seasonal sale: 25% off selected items,36,0.150663260351866
+2024-01-03,SportMaster,Sports,exclusive member discount: 25% off,33,0.702079947916558
+2024-02-02,FoodExpress,Food,buy one get one free offer,14,0.839885981767439
+2024-02-17,FoodExpress,Food,buy one get one free offer,11,0.689605983917601
+2024-03-15,StyleCo,Fashion,flash sale: 25% discount today only,50,1.38492738478817
+2024-02-14,TechGiant,Electronics,clearance sale: extra 25% off,35,0.0195190866943449
+2024-01-10,QuickBite,Food,special discount: save up to 25%,62,1.63282221967913
+2024-02-11,FashionHub,Fashion,clearance sale: extra 25% off,37,0.952878240027465
+2024-01-24,ElectroWorld,Electronics,get 25% off on your next purchase,56,1.38750415126886
+2024-01-18,FoodExpress,Food,clearance sale: extra 25% off,15,0.548451877613552
+2024-03-21,FashionHub,Fashion,flash sale: 25% discount today only,35,0.424574892316014
+2024-03-24,FoodExpress,Food,special discount: save up to 25%,37,0.672109573951922
+2024-02-28,FoodExpress,Food,special discount: save up to 25%,15,0.342227581434418
+2024-01-09,FitGear,Sports,flash sale: 25% discount today only,64,0.216741980378516
+2024-02-22,QuickBite,Food,buy one get one free offer,68,0.467664889935404
+2024-01-11,QuickBite,Food,special discount: save up to 25%,13,0.342519962279592
+2024-01-08,FitGear,Sports,exclusive member discount: 25% off,31,0.490344119653572
+2024-01-05,FitGear,Sports,buy one get one free offer,24,0.0250170327983797
+2024-01-29,FashionHub,Fashion,clearance sale: extra 25% off,15,0.962532624839805
+2024-02-19,FitGear,Sports,clearance sale: extra 25% off,68,0.751237396392971
+2024-03-10,FoodExpress,Food,clearance sale: extra 25% off,66,1.1975460848026
+2024-03-14,SportMaster,Sports,clearance sale: extra 25% off,12,0.117480597160757
+2024-01-26,FoodExpress,Food,clearance sale: extra 25% off,30,0.0453325624298304
+2024-03-13,FoodExpress,Food,special discount: save up to 25%,70,0.313866312848404
+2024-01-11,FashionHub,Fashion,special discount: save up to 25%,19,0.0411041887649335
+2024-01-06,ElectroWorld,Electronics,weekend special: save 25%,46,1.80929112206642
+2024-03-16,ElectroWorld,Electronics,exclusive member discount: 25% off,34,0.7893532166183
+2024-03-23,SportMaster,Sports,buy one get one free offer,47,1.41557930286415
+2024-03-31,SportMaster,Sports,exclusive member discount: 25% off,37,0.919971764313988
+2024-02-25,StyleCo,Fashion,exclusive member discount: 25% off,10,0.145015408331528
+2024-01-27,StyleCo,Fashion,flash sale: 25% discount today only,44,0.0199853881984949
+2024-03-08,FoodExpress,Food,flash sale: 25% discount today only,49,0.644143085510004
+2024-03-28,TechGiant,Electronics,special discount: save up to 25%,11,0.229905637276825
+2024-01-28,ElectroWorld,Electronics,seasonal sale: 25% off selected items,55,1.64966920419037
+2024-03-07,ElectroWorld,Electronics,seasonal sale: 25% off selected items,28,0.654072215557098
+2024-02-09,FitGear,Sports,weekend special: save 25%,35,0.727226835570764
+2024-01-06,ElectroWorld,Electronics,seasonal sale: 25% off selected items,42,1.7396307541592
+2024-02-05,ElectroWorld,Electronics,seasonal sale: 25% off selected items,32,0.100541425002739
+2024-02-24,FoodExpress,Food,weekend special: save 25%,12,0.0296543125212193
+2024-02-17,SportMaster,Sports,weekend special: save 25%,46,0.977311415981501
+2024-01-10,StyleCo,Fashion,buy one get one free offer,33,0.153115774927195
+2024-01-25,QuickBite,Food,clearance sale: extra 25% off,70,0.491973663973622
+2024-02-07,StyleCo,Fashion,get 25% off on your next purchase,68,0.235204674527049
+2024-01-25,TechGiant,Electronics,seasonal sale: 25% off selected items,41,0.237277267544763
+2024-01-04,ElectroWorld,Electronics,flash sale: 25% discount today only,22,0.764424398199189
+2024-03-19,FitGear,Sports,buy one get one free offer,18,0.0690881378157064
+2024-02-21,FashionHub,Fashion,exclusive member discount: 25% off,26,0.793317464003339
+2024-01-22,TechGiant,Electronics,weekend special: save 25%,56,1.26297651985567
+2024-01-24,ElectroWorld,Electronics,flash sale: 25% discount today only,23,0.506323655551532
+2024-02-08,FoodExpress,Food,clearance sale: extra 25% off,58,1.11425249178894
+2024-02-16,StyleCo,Fashion,seasonal sale: 25% off selected items,58,0.0844434461183846
+2024-02-29,FitGear,Sports,seasonal sale: 25% off selected items,40,0.817261289060116
+2024-03-03,TechGiant,Electronics,get 25% off on your next purchase,70,0.538899889793247
+2024-02-06,FashionHub,Fashion,seasonal sale: 25% off selected items,62,0.291638971469365
+2024-02-15,FitGear,Sports,exclusive member discount: 25% off,17,0.336461572595872
+2024-02-23,FashionHub,Fashion,weekend special: save 25%,46,0.881603453117423
+2024-02-16,FashionHub,Fashion,clearance sale: extra 25% off,21,0.507874697595835
+2024-03-19,ElectroWorld,Electronics,buy one get one free offer,61,1.02410235909978
+2024-01-16,StyleCo,Fashion,exclusive member discount: 25% off,29,1.34477640345879
+2024-01-19,ElectroWorld,Electronics,flash sale: 25% discount today only,14,0.659396799171344
+2024-03-12,SportMaster,Sports,flash sale: 25% discount today only,65,0.411305030551739
+2024-01-31,FoodExpress,Food,special discount: save up to 25%,66,1.35679872600082
+2024-02-06,FitGear,Sports,exclusive member discount: 25% off,59,0.843329048075247
+2024-02-17,FoodExpress,Food,get 25% off on your next purchase,49,0.243770320275798
+2024-02-29,TechGiant,Electronics,exclusive member discount: 25% off,60,0.384449899569154
+2024-03-02,StyleCo,Fashion,buy one get one free offer,44,0.204359684944153
+2024-03-20,FoodExpress,Food,get 25% off on your next purchase,14,0.122487939116545
+2024-01-09,StyleCo,Fashion,special discount: save up to 25%,17,0.837551292905119
+2024-01-11,FoodExpress,Food,get 25% off on your next purchase,53,1.24137205792218
+2024-02-12,FitGear,Sports,get 25% off on your next purchase,46,0.652912155087106
+2024-01-30,TechGiant,Electronics,seasonal sale: 25% off selected items,64,0.264673096462153
+2024-03-01,SportMaster,Sports,clearance sale: extra 25% off,35,1.13470551077044
+2024-03-14,SportMaster,Sports,flash sale: 25% discount today only,69,1.68473222359316
+2024-02-24,QuickBite,Food,clearance sale: extra 25% off,34,0.0312832627091557
+2024-03-01,FitGear,Sports,buy one get one free offer,56,0.837524379976094
+2024-02-03,StyleCo,Fashion,buy one get one free offer,65,1.57684553024825
+2024-02-26,FoodExpress,Food,weekend special: save 25%,51,0.791274974220432
+2024-02-07,FoodExpress,Food,special discount: save up to 25%,31,0.323046106388792
+2024-03-24,FoodExpress,Food,clearance sale: extra 25% off,40,0.795432761069387
+2024-03-03,TechGiant,Electronics,buy one get one free offer,63,0.571496945193037
+2024-02-15,ElectroWorld,Electronics,special discount: save up to 25%,61,1.55748597673373
+2024-03-18,StyleCo,Fashion,get 25% off on your next purchase,18,0.824932094560936
+2024-03-10,SportMaster,Sports,buy one get one free offer,18,1.0572302337829
+2024-01-18,FoodExpress,Food,weekend special: save 25%,62,0.0242921127313748
+2024-01-02,ElectroWorld,Electronics,exclusive member discount: 25% off,26,0.555662194342353
+2024-03-12,TechGiant,Electronics,buy one get one free offer,50,0.68080039951019
+2024-03-15,StyleCo,Fashion,seasonal sale: 25% off selected items,51,0.183870970383286
+2024-01-21,ElectroWorld,Electronics,flash sale: 25% discount today only,33,0.45154256100012
+2024-02-26,TechGiant,Electronics,flash sale: 25% discount today only,46,0.218219898757525
+2024-03-11,FitGear,Sports,flash sale: 25% discount today only,70,0.708862914214842
+2024-03-27,StyleCo,Fashion,weekend special: save 25%,20,0.259475906565785
+2024-03-12,FitGear,Sports,exclusive member discount: 25% off,41,0.736994714811444
+2024-02-28,TechGiant,Electronics,exclusive member discount: 25% off,25,1.10975890071131
+2024-03-14,FoodExpress,Food,seasonal sale: 25% off selected items,55,0.800782527856063
+2024-02-06,ElectroWorld,Electronics,get 25% off on your next purchase,36,0.57807293176651
+2024-03-21,StyleCo,Fashion,buy one get one free offer,37,0.404480660129339
+2024-02-24,QuickBite,Food,clearance sale: extra 25% off,66,0.447135152360424
+2024-01-06,StyleCo,Fashion,clearance sale: extra 25% off,40,0.0982721213791519
+2024-02-09,ElectroWorld,Electronics,exclusive member discount: 25% off,23,0.966579512008466
+2024-01-06,FoodExpress,Food,flash sale: 25% discount today only,22,1.54301327675153
+2024-01-28,FitGear,Sports,seasonal sale: 25% off selected items,56,1.87534730776101
+2024-02-01,StyleCo,Fashion,buy one get one free offer,23,0.359047155466396
+2024-02-18,StyleCo,Fashion,get 25% off on your next purchase,48,0.432765888277441
+2024-03-24,ElectroWorld,Electronics,special discount: save up to 25%,40,0.517048084829003
+2024-03-05,StyleCo,Fashion,clearance sale: extra 25% off,19,0.390539255058393
+2024-03-09,SportMaster,Sports,exclusive member discount: 25% off,38,1.01780031373724
+2024-03-15,SportMaster,Sports,special discount: save up to 25%,37,0.870031703989953
+2024-02-16,SportMaster,Sports,get 25% off on your next purchase,18,0.127529852953739
+2024-01-20,FoodExpress,Food,get 25% off on your next purchase,22,0.802087671892718
+2024-01-02,FitGear,Sports,flash sale: 25% discount today only,23,0.0643608112265356
+2024-03-02,SportMaster,Sports,flash sale: 25% discount today only,57,1.23922609579749
+2024-03-03,ElectroWorld,Electronics,weekend special: save 25%,14,1.30588383968733
+2024-03-02,SportMaster,Sports,special discount: save up to 25%,35,1.54994125884958
+2024-01-10,StyleCo,Fashion,buy one get one free offer,22,1.22170683213882
+2024-02-28,FashionHub,Fashion,exclusive member discount: 25% off,23,0.585386382427532
+2024-02-18,SportMaster,Sports,flash sale: 25% discount today only,17,0.518393037962727
+2024-01-07,FoodExpress,Food,special discount: save up to 25%,16,0.596355521824211
+2024-03-01,TechGiant,Electronics,special discount: save up to 25%,44,1.35471961464733
+2024-02-07,FoodExpress,Food,weekend special: save 25%,68,1.15299880474806
+2024-02-05,FitGear,Sports,seasonal sale: 25% off selected items,54,0.642124949176796
+2024-01-23,ElectroWorld,Electronics,buy one get one free offer,66,0.877068636273966
+2024-02-03,ElectroWorld,Electronics,seasonal sale: 25% off selected items,55,1.38957925657276
+2024-03-28,FitGear,Sports,seasonal sale: 25% off selected items,22,0.896603703754954
+2024-01-04,FashionHub,Fashion,flash sale: 25% discount today only,66,0.860376774057746
+2024-02-23,FoodExpress,Food,special discount: save up to 25%,62,0.666451599374414
+2024-01-29,FoodExpress,Food,clearance sale: extra 25% off,54,0.68112194416346
+2024-02-27,TechGiant,Electronics,clearance sale: extra 25% off,55,1.0405245386879
+2024-03-27,FashionHub,Fashion,buy one get one free offer,27,0.877247536845971
+2024-03-15,SportMaster,Sports,seasonal sale: 25% off selected items,29,0.0760316168214195
+2024-02-25,StyleCo,Fashion,exclusive member discount: 25% off,41,0.778660168195143
+2024-02-20,FoodExpress,Food,buy one get one free offer,61,0.813929993535858
+2024-02-19,FitGear,Sports,seasonal sale: 25% off selected items,52,0.238897710628808
+2024-02-17,SportMaster,Sports,exclusive member discount: 25% off,17,0.425203905777074
+2024-01-03,FitGear,Sports,special discount: save up to 25%,56,0.343568536799401
+2024-02-02,FashionHub,Fashion,flash sale: 25% discount today only,17,0.136792423536535
+2024-02-03,SportMaster,Sports,exclusive member discount: 25% off,24,1.26675484063849
+2024-03-06,SportMaster,Sports,buy one get one free offer,42,0.482484704158269
+2024-03-04,FashionHub,Fashion,buy one get one free offer,30,0.0803145165089518
+2024-02-09,TechGiant,Electronics,clearance sale: extra 25% off,59,1.02563219051342
+2024-02-27,TechGiant,Electronics,get 25% off on your next purchase,50,1.14553175820038
+2024-01-20,ElectroWorld,Electronics,buy one get one free offer,53,1.08409546913076
+2024-03-18,TechGiant,Electronics,seasonal sale: 25% off selected items,26,0.633082530302927
+2024-01-25,ElectroWorld,Electronics,buy one get one free offer,54,1.28065890463954
+2024-03-11,SportMaster,Sports,exclusive member discount: 25% off,57,1.39105521861929
+2024-02-09,TechGiant,Electronics,flash sale: 25% discount today only,67,1.38045832000673
+2024-03-01,QuickBite,Food,weekend special: save 25%,70,0.851500775385648
+2024-01-22,TechGiant,Electronics,clearance sale: extra 25% off,42,1.24381454186514
+2024-03-20,FoodExpress,Food,flash sale: 25% discount today only,70,0.327886562631466
+2024-03-26,ElectroWorld,Electronics,exclusive member discount: 25% off,62,0.603909847475588
+2024-02-25,ElectroWorld,Electronics,buy one get one free offer,32,0.645000955246389
+2024-02-02,TechGiant,Electronics,weekend special: save 25%,15,0.105872746626846
+2024-03-04,QuickBite,Food,exclusive member discount: 25% off,26,0.00253232797142118
+2024-02-22,StyleCo,Fashion,buy one get one free offer,37,0.533766057831235
+2024-01-31,TechGiant,Electronics,clearance sale: extra 25% off,47,0.256373181516538
+2024-02-15,QuickBite,Food,exclusive member discount: 25% off,13,0.993191095620859
+2024-03-12,FoodExpress,Food,buy one get one free offer,19,0.702670000863727
+2024-01-24,TechGiant,Electronics,special discount: save up to 25%,38,0.68561512913229
+2024-02-29,TechGiant,Electronics,special discount: save up to 25%,56,0.831019696332514
+2024-01-30,FoodExpress,Food,buy one get one free offer,32,0.0737394812107086
+2024-01-23,FoodExpress,Food,seasonal sale: 25% off selected items,11,0.91991472284426
+2024-01-17,StyleCo,Fashion,get 25% off on your next purchase,37,1.03745239054319
+2024-03-30,FashionHub,Fashion,special discount: save up to 25%,16,0.178085153762251
+2024-02-28,TechGiant,Electronics,seasonal sale: 25% off selected items,27,0.775917890022975
+2024-02-26,ElectroWorld,Electronics,weekend special: save 25%,50,0.974537755362689
+2024-02-12,SportMaster,Sports,get 25% off on your next purchase,10,0.378791696764529
+2024-01-23,QuickBite,Food,clearance sale: extra 25% off,20,0.909352190773934
+2024-03-30,ElectroWorld,Electronics,buy one get one free offer,17,0.798618165638298
+2024-02-14,FashionHub,Fashion,clearance sale: extra 25% off,59,0.439962765597738
+2024-01-08,ElectroWorld,Electronics,exclusive member discount: 25% off,23,1.23740095386794
+2024-03-19,FitGear,Sports,clearance sale: extra 25% off,17,0.0538663681433536
+2024-02-05,TechGiant,Electronics,buy one get one free offer,17,1.05658216400072
+2024-03-07,StyleCo,Fashion,special discount: save up to 25%,16,0.948284655073657
+2024-02-08,QuickBite,Food,clearance sale: extra 25% off,61,0.521782075839583
+2024-02-02,FoodExpress,Food,buy one get one free offer,59,0.663934215477202
+2024-02-07,StyleCo,Fashion,seasonal sale: 25% off selected items,17,0.589977861063089
+2024-03-30,FitGear,Sports,clearance sale: extra 25% off,18,0.781758545078337
+2024-01-28,TechGiant,Electronics,get 25% off on your next purchase,47,0.14157313365899
+2024-03-30,StyleCo,Fashion,special discount: save up to 25%,70,0.651224807007238
+2024-03-21,TechGiant,Electronics,seasonal sale: 25% off selected items,52,0.354741102382541
+2024-03-27,StyleCo,Fashion,get 25% off on your next purchase,57,0.153235328611918
+2024-02-22,StyleCo,Fashion,flash sale: 25% discount today only,68,1.64252108786255
+2024-01-10,ElectroWorld,Electronics,flash sale: 25% discount today only,51,0.568484182917513
+2024-02-10,FashionHub,Fashion,buy one get one free offer,46,1.63450147373602
+2024-01-08,TechGiant,Electronics,get 25% off on your next purchase,65,1.47034611329553
+2024-01-01,QuickBite,Food,buy one get one free offer,70,0.765457329882775
+2024-03-20,FashionHub,Fashion,special discount: save up to 25%,61,1.28404136940604
+2024-03-06,FoodExpress,Food,get 25% off on your next purchase,18,0.288300703531131
+2024-03-18,TechGiant,Electronics,seasonal sale: 25% off selected items,12,0.871821112520993
+2024-01-12,FitGear,Sports,buy one get one free offer,43,0.135076192101697
+2024-03-30,ElectroWorld,Electronics,seasonal sale: 25% off selected items,44,0.366295089036226
+2024-03-12,QuickBite,Food,special discount: save up to 25%,10,1.08157558399253
+2024-02-10,FashionHub,Fashion,flash sale: 25% discount today only,68,0.0910318931490183
+2024-01-08,StyleCo,Fashion,flash sale: 25% discount today only,49,0.894288704633014
+2024-02-26,FashionHub,Fashion,buy one get one free offer,70,1.14542158443946
+2024-03-13,QuickBite,Food,special discount: save up to 25%,67,0.461376142608933
+2024-02-21,TechGiant,Electronics,special discount: save up to 25%,12,0.552110665142536
+2024-03-07,FoodExpress,Food,buy one get one free offer,41,1.21189238847233
+2024-02-09,TechGiant,Electronics,get 25% off on your next purchase,15,0.557506222091615
+2024-01-02,StyleCo,Fashion,special discount: save up to 25%,49,0.222504586871248
+2024-03-05,StyleCo,Fashion,exclusive member discount: 25% off,24,0.393284774832428
+2024-03-13,StyleCo,Fashion,flash sale: 25% discount today only,26,0.965479436125606
+2024-01-07,FitGear,Sports,buy one get one free offer,40,0.083487878004089
+2024-03-17,SportMaster,Sports,weekend special: save 25%,29,1.43219309078436
+2024-01-29,StyleCo,Fashion,buy one get one free offer,28,0.961550631970167
+2024-01-20,TechGiant,Electronics,flash sale: 25% discount today only,27,0.698668934918102
+2024-03-18,SportMaster,Sports,weekend special: save 25%,44,0.194881494753063
+2024-03-20,StyleCo,Fashion,seasonal sale: 25% off selected items,64,1.51970465215854
+2024-01-07,FashionHub,Fashion,seasonal sale: 25% off selected items,25,0.382148351194337
+2024-02-14,QuickBite,Food,exclusive member discount: 25% off,38,1.02039651706349
+2024-03-16,FitGear,Sports,seasonal sale: 25% off selected items,20,0.0116691511496902
+2024-01-25,FoodExpress,Food,flash sale: 25% discount today only,14,0.311781871152576
+2024-03-31,StyleCo,Fashion,special discount: save up to 25%,21,1.43670053070132
+2024-01-13,QuickBite,Food,flash sale: 25% discount today only,12,1.06019302048981
+2024-03-24,StyleCo,Fashion,exclusive member discount: 25% off,47,1.14964870050922
+2024-01-10,FoodExpress,Food,seasonal sale: 25% off selected items,45,0.383687150568003
+2024-02-10,ElectroWorld,Electronics,seasonal sale: 25% off selected items,39,0.144770314852707
+2024-01-12,TechGiant,Electronics,exclusive member discount: 25% off,37,0.447091154627036
+2024-01-08,FoodExpress,Food,seasonal sale: 25% off selected items,64,0.977892118483782
+2024-03-11,FitGear,Sports,flash sale: 25% discount today only,70,1.32710213209502
+2024-01-15,TechGiant,Electronics,flash sale: 25% discount today only,30,0.388733391547576
+2024-03-23,SportMaster,Sports,flash sale: 25% discount today only,41,0.536655125557445
+2024-02-18,StyleCo,Fashion,exclusive member discount: 25% off,19,1.35325088420324
+2024-02-08,StyleCo,Fashion,weekend special: save 25%,29,0.632430051479023
+2024-03-27,FitGear,Sports,buy one get one free offer,50,1.45943868602626
+2024-02-04,QuickBite,Food,get 25% off on your next purchase,56,1.58352561737224
+2024-01-06,FoodExpress,Food,exclusive member discount: 25% off,51,1.95268020154042
+2024-03-11,TechGiant,Electronics,get 25% off on your next purchase,39,0.158445633943193
+2024-01-04,FitGear,Sports,get 25% off on your next purchase,59,0.54915366587718
+2024-03-14,QuickBite,Food,get 25% off on your next purchase,20,1.13361207749695
+2024-03-21,FoodExpress,Food,flash sale: 25% discount today only,37,0.878916494366713
+2024-02-17,FitGear,Sports,buy one get one free offer,27,1.49263915639278
+2024-01-08,QuickBite,Food,weekend special: save 25%,68,1.79627819006145
+2024-02-22,TechGiant,Electronics,exclusive member discount: 25% off,11,0.810911967151333
+2024-03-07,StyleCo,Fashion,special discount: save up to 25%,30,0.509395698062144
+2024-02-22,FoodExpress,Food,clearance sale: extra 25% off,46,0.968655062485486
+2024-01-14,SportMaster,Sports,flash sale: 25% discount today only,46,0.495738120878488
+2024-01-28,TechGiant,Electronics,special discount: save up to 25%,61,0.658383706464339
+2024-01-06,FitGear,Sports,exclusive member discount: 25% off,67,1.8527020492997
+2024-01-09,TechGiant,Electronics,get 25% off on your next purchase,64,1.24164472901262
+2024-02-02,StyleCo,Fashion,buy one get one free offer,28,0.991913111507893
+2024-02-15,FashionHub,Fashion,exclusive member discount: 25% off,24,0.381721640015021
+2024-03-04,ElectroWorld,Electronics,get 25% off on your next purchase,37,0.878941225367598
+2024-01-19,FashionHub,Fashion,weekend special: save 25%,33,0.897391951116733
+2024-01-01,ElectroWorld,Electronics,special discount: save up to 25%,43,0.356370366111398
+2024-02-21,FoodExpress,Food,buy one get one free offer,51,0.371700417802203
+2024-03-08,QuickBite,Food,exclusive member discount: 25% off,62,1.42196797101293
+2024-03-30,FashionHub,Fashion,exclusive member discount: 25% off,29,1.21482353546564
+2024-03-15,SportMaster,Sports,weekend special: save 25%,47,0.0377219048654661
+2024-01-05,ElectroWorld,Electronics,buy one get one free offer,64,1.36262092538457
+2024-01-19,FitGear,Sports,clearance sale: extra 25% off,14,1.12573572820611
+2024-02-04,StyleCo,Fashion,clearance sale: extra 25% off,27,1.36103244058695
+2024-02-02,TechGiant,Electronics,clearance sale: extra 25% off,36,0.162432636711746
+2024-03-09,FitGear,Sports,seasonal sale: 25% off selected items,50,1.75728980284184
+2024-03-01,ElectroWorld,Electronics,seasonal sale: 25% off selected items,40,1.2740730357822
+2024-01-23,TechGiant,Electronics,get 25% off on your next purchase,68,0.47862575949356
+2024-02-10,QuickBite,Food,buy one get one free offer,20,1.28010818269104
+2024-03-29,TechGiant,Electronics,flash sale: 25% discount today only,38,1.14957487118896
+2024-03-03,FashionHub,Fashion,buy one get one free offer,10,0.579856504993513
+2024-02-18,FashionHub,Fashion,exclusive member discount: 25% off,16,0.10683796146512
+2024-03-25,TechGiant,Electronics,exclusive member discount: 25% off,55,1.34253867499065
+2024-03-09,FoodExpress,Food,flash sale: 25% discount today only,49,0.578707104418427
+2024-03-04,TechGiant,Electronics,clearance sale: extra 25% off,44,0.334214524291456
+2024-03-16,FashionHub,Fashion,flash sale: 25% discount today only,58,1.56948920080438
+2024-01-02,FoodExpress,Food,flash sale: 25% discount today only,22,1.33066896247026
+2024-01-18,TechGiant,Electronics,clearance sale: extra 25% off,25,0.31644113411312
+2024-01-04,TechGiant,Electronics,clearance sale: extra 25% off,69,0.165106027420377
+2024-03-27,StyleCo,Fashion,weekend special: save 25%,37,0.870215258274693
+2024-03-12,StyleCo,Fashion,get 25% off on your next purchase,42,1.21630233854987
+2024-03-05,QuickBite,Food,buy one get one free offer,46,0.26855505914893
+2024-03-15,FashionHub,Fashion,weekend special: save 25%,58,0.798650262006559
+2024-01-11,QuickBite,Food,exclusive member discount: 25% off,17,0.45760648927954
+2024-03-19,StyleCo,Fashion,seasonal sale: 25% off selected items,68,1.38515308532864
+2024-03-19,SportMaster,Sports,seasonal sale: 25% off selected items,60,0.773966235667467
+2024-02-26,FitGear,Sports,buy one get one free offer,13,0.26206160804024
+2024-02-25,FitGear,Sports,flash sale: 25% discount today only,53,0.496020063282922
+2024-01-15,ElectroWorld,Electronics,special discount: save up to 25%,52,1.37604513343237
+2024-03-19,TechGiant,Electronics,flash sale: 25% discount today only,65,0.0426298187230714
+2024-02-21,ElectroWorld,Electronics,special discount: save up to 25%,20,0.487110606394708
+2024-03-01,FashionHub,Fashion,exclusive member discount: 25% off,19,0.709281190822367
+2024-03-29,TechGiant,Electronics,clearance sale: extra 25% off,60,0.845983444154263
+2024-02-05,SportMaster,Sports,get 25% off on your next purchase,16,0.791782253803685
+2024-01-03,QuickBite,Food,buy one get one free offer,30,0.726172457991634
+2024-01-07,StyleCo,Fashion,seasonal sale: 25% off selected items,58,1.15619781645332
+2024-03-08,SportMaster,Sports,exclusive member discount: 25% off,55,1.30392216236796
+2024-02-22,QuickBite,Food,clearance sale: extra 25% off,62,0.506266459627077
+2024-01-24,FitGear,Sports,weekend special: save 25%,20,0.0474515187833458
+2024-03-08,FoodExpress,Food,flash sale: 25% discount today only,11,0.905753407264129
+2024-03-07,FashionHub,Fashion,clearance sale: extra 25% off,22,0.949863683097064
+2024-01-11,QuickBite,Food,seasonal sale: 25% off selected items,68,1.58813329992816
+2024-03-14,SportMaster,Sports,get 25% off on your next purchase,70,0.111722906096838
+2024-03-27,QuickBite,Food,buy one get one free offer,34,0.0118001988017932
+2024-01-05,FoodExpress,Food,exclusive member discount: 25% off,32,0.859120631245896
+2024-03-28,FoodExpress,Food,weekend special: save 25%,29,1.12180384074105
+2024-02-01,StyleCo,Fashion,flash sale: 25% discount today only,13,0.504309830958955
+2024-03-29,FashionHub,Fashion,buy one get one free offer,44,0.0541080066561699
+2024-01-11,QuickBite,Food,seasonal sale: 25% off selected items,19,0.537070373499999
+2024-03-14,FitGear,Sports,get 25% off on your next purchase,61,0.587998100004625
+2024-03-19,TechGiant,Electronics,get 25% off on your next purchase,10,0.524243313609623
+2024-02-29,StyleCo,Fashion,flash sale: 25% discount today only,29,0.17244430487277
+2024-01-31,StyleCo,Fashion,flash sale: 25% discount today only,28,0.675074409306049
+2024-03-14,StyleCo,Fashion,weekend special: save 25%,48,0.391182783795521
+2024-02-14,SportMaster,Sports,get 25% off on your next purchase,67,0.818188012314495
+2024-02-28,ElectroWorld,Electronics,buy one get one free offer,69,1.53124343580101
+2024-01-24,ElectroWorld,Electronics,flash sale: 25% discount today only,48,0.81562367646303
+2024-02-04,ElectroWorld,Electronics,buy one get one free offer,41,1.19033352233749
+2024-01-10,ElectroWorld,Electronics,get 25% off on your next purchase,41,0.0898184529331047
+2024-03-04,StyleCo,Fashion,flash sale: 25% discount today only,48,1.02018015809357
+2024-03-12,FashionHub,Fashion,buy one get one free offer,46,1.16624110274948
+2024-02-13,FitGear,Sports,clearance sale: extra 25% off,51,0.0284710990916938
+2024-02-11,StyleCo,Fashion,buy one get one free offer,68,0.0742181767970324
+2024-02-01,FashionHub,Fashion,flash sale: 25% discount today only,57,0.907180904480629
+2024-02-08,QuickBite,Food,weekend special: save 25%,40,1.10605020322837
+2024-01-07,StyleCo,Fashion,flash sale: 25% discount today only,31,1.27141337876357
+2024-02-07,StyleCo,Fashion,exclusive member discount: 25% off,68,0.451143367979676
+2024-01-17,ElectroWorld,Electronics,buy one get one free offer,62,1.43516296824161
+2024-03-24,QuickBite,Food,weekend special: save 25%,30,0.662895289314911
+2024-02-02,FoodExpress,Food,clearance sale: extra 25% off,37,0.226344814174809
+2024-03-14,FitGear,Sports,exclusive member discount: 25% off,56,0.942314208336174
+2024-03-14,TechGiant,Electronics,get 25% off on your next purchase,23,1.0156852380652
+2024-01-02,FashionHub,Fashion,weekend special: save 25%,67,1.43460685364925
+2024-03-19,QuickBite,Food,flash sale: 25% discount today only,34,0.109179045101628
+2024-03-27,FashionHub,Fashion,flash sale: 25% discount today only,42,0.100476883063093
+2024-03-06,ElectroWorld,Electronics,get 25% off on your next purchase,46,1.40008162577637
+2024-03-10,ElectroWorld,Electronics,clearance sale: extra 25% off,21,0.131105083373375
+2024-02-28,QuickBite,Food,get 25% off on your next purchase,29,0.273804115417879
+2024-02-16,TechGiant,Electronics,buy one get one free offer,16,0.509476167820394
+2024-01-09,TechGiant,Electronics,special discount: save up to 25%,37,1.17225233331043
+2024-01-23,FashionHub,Fashion,get 25% off on your next purchase,42,1.32989923251839
+2024-01-25,FashionHub,Fashion,get 25% off on your next purchase,50,1.03079444132745
+2024-01-15,FashionHub,Fashion,clearance sale: extra 25% off,56,0.66587820157595
+2024-03-26,FoodExpress,Food,exclusive member discount: 25% off,31,0.188318854600657
+2024-03-12,QuickBite,Food,flash sale: 25% discount today only,32,1.1638081016019
+2024-01-21,StyleCo,Fashion,seasonal sale: 25% off selected items,67,1.92607645155955
+2024-02-17,FoodExpress,Food,seasonal sale: 25% off selected items,32,0.536379928205162
+2024-03-13,FitGear,Sports,flash sale: 25% discount today only,68,0.862365778740496
+2024-02-12,ElectroWorld,Electronics,weekend special: save 25%,32,0.651994760166854
+2024-02-25,TechGiant,Electronics,flash sale: 25% discount today only,50,1.42818805156276
+2024-03-15,QuickBite,Food,exclusive member discount: 25% off,29,1.18475550373318
+2024-01-04,StyleCo,Fashion,clearance sale: extra 25% off,53,0.986844332323875
+2024-03-11,FoodExpress,Food,exclusive member discount: 25% off,19,0.979941669101827
+2024-02-25,FashionHub,Fashion,special discount: save up to 25%,12,1.08519789505005
+2024-02-19,ElectroWorld,Electronics,get 25% off on your next purchase,18,0.332256121472456
+2024-01-11,FitGear,Sports,seasonal sale: 25% off selected items,36,0.760938304500654
+2024-03-15,TechGiant,Electronics,seasonal sale: 25% off selected items,20,0.354275328386575
+2024-02-29,StyleCo,Fashion,special discount: save up to 25%,48,1.28408317877911
+2024-03-25,QuickBite,Food,seasonal sale: 25% off selected items,26,0.898842912549153
+2024-03-14,FoodExpress,Food,weekend special: save 25%,13,0.409456976060756
+2024-03-07,FashionHub,Fashion,seasonal sale: 25% off selected items,68,1.6750108349137
+2024-02-27,SportMaster,Sports,exclusive member discount: 25% off,50,1.05150496400893
+2024-02-09,TechGiant,Electronics,get 25% off on your next purchase,56,0.370467074560001
+2024-01-13,TechGiant,Electronics,weekend special: save 25%,37,1.17093351279683
+2024-01-08,FoodExpress,Food,get 25% off on your next purchase,69,0.639407274676021
+2024-01-02,FashionHub,Fashion,buy one get one free offer,40,1.23296422238927
+2024-01-06,TechGiant,Electronics,seasonal sale: 25% off selected items,42,0.60923223039005
+2024-03-27,StyleCo,Fashion,buy one get one free offer,62,0.433003050056286
+2024-01-17,FashionHub,Fashion,clearance sale: extra 25% off,52,0.116674038371071
+2024-02-01,FoodExpress,Food,buy one get one free offer,42,0.810134666408412
+2024-03-18,FashionHub,Fashion,flash sale: 25% discount today only,39,0.00579747006064281
+2024-03-11,StyleCo,Fashion,special discount: save up to 25%,32,0.370790179800242
+2024-03-17,StyleCo,Fashion,buy one get one free offer,46,0.490712771940976
+2024-03-12,QuickBite,Food,flash sale: 25% discount today only,26,1.03096896372735
+2024-03-15,FitGear,Sports,clearance sale: extra 25% off,49,0.174828123582993
+2024-01-17,StyleCo,Fashion,clearance sale: extra 25% off,26,0.363360098434612
+2024-03-11,FitGear,Sports,exclusive member discount: 25% off,13,0.496333077331074
+2024-02-24,SportMaster,Sports,flash sale: 25% discount today only,32,1.51808099028468
+2024-01-19,SportMaster,Sports,clearance sale: extra 25% off,60,0.55902033995837
+2024-01-15,FashionHub,Fashion,weekend special: save 25%,32,1.1403203784395
+2024-02-15,TechGiant,Electronics,buy one get one free offer,37,0.180195492524654
+2024-01-14,FashionHub,Fashion,get 25% off on your next purchase,25,0.815976942982525
+2024-03-30,QuickBite,Food,weekend special: save 25%,21,0.762605745725334
+2024-01-27,FoodExpress,Food,exclusive member discount: 25% off,62,1.89489852592461
+2024-03-21,QuickBite,Food,seasonal sale: 25% off selected items,63,0.589544730817433
+2024-02-02,SportMaster,Sports,buy one get one free offer,41,0.657473555349279
+2024-02-19,ElectroWorld,Electronics,get 25% off on your next purchase,63,0.717326767435297
+2024-01-18,FoodExpress,Food,seasonal sale: 25% off selected items,12,0.878874122459442
+2024-01-20,QuickBite,Food,special discount: save up to 25%,16,0.078375877347216
+2024-03-31,FoodExpress,Food,special discount: save up to 25%,51,1.27078784174379
+2024-02-11,QuickBite,Food,exclusive member discount: 25% off,12,0.891712149962783
+2024-03-14,FashionHub,Fashion,special discount: save up to 25%,62,1.07546354879625
+2024-02-22,FoodExpress,Food,flash sale: 25% discount today only,29,0.644875728052575
+2024-03-03,SportMaster,Sports,flash sale: 25% discount today only,69,0.558374105061404
+2024-03-13,TechGiant,Electronics,get 25% off on your next purchase,28,0.477680556476116
+2024-01-31,FoodExpress,Food,special discount: save up to 25%,70,0.197276861746795
+2024-03-23,FashionHub,Fashion,clearance sale: extra 25% off,13,0.3457286469955
+2024-02-24,FitGear,Sports,get 25% off on your next purchase,35,0.0750434998702258
+2024-01-18,TechGiant,Electronics,clearance sale: extra 25% off,17,0.604385529878782
+2024-02-13,QuickBite,Food,flash sale: 25% discount today only,61,0.521782397842035
+2024-01-21,ElectroWorld,Electronics,flash sale: 25% discount today only,58,0.437949580340646
+2024-01-29,SportMaster,Sports,flash sale: 25% discount today only,67,1.38258358499384
+2024-02-05,QuickBite,Food,flash sale: 25% discount today only,24,0.302405654415488
+2024-03-24,StyleCo,Fashion,get 25% off on your next purchase,34,0.652105515724048
+2024-01-23,ElectroWorld,Electronics,flash sale: 25% discount today only,18,0.913009933667258
+2024-02-11,FitGear,Sports,weekend special: save 25%,22,0.167511286988854
+2024-03-09,FashionHub,Fashion,weekend special: save 25%,62,0.261965738257393
+2024-03-06,FitGear,Sports,clearance sale: extra 25% off,52,1.49640473930165
+2024-03-22,QuickBite,Food,flash sale: 25% discount today only,70,1.66051371463109
+2024-03-16,FitGear,Sports,exclusive member discount: 25% off,55,1.41111384662334
+2024-03-02,QuickBite,Food,flash sale: 25% discount today only,46,0.0526642054785043
+2024-03-04,StyleCo,Fashion,buy one get one free offer,40,1.36389361848123
+2024-03-17,FashionHub,Fashion,clearance sale: extra 25% off,52,1.38673311314732
+2024-02-20,FitGear,Sports,weekend special: save 25%,64,1.45540494411252
+2024-01-18,FitGear,Sports,exclusive member discount: 25% off,14,0.278329194189515
+2024-01-10,TechGiant,Electronics,flash sale: 25% discount today only,33,0.395703916600207
+2024-03-13,FoodExpress,Food,special discount: save up to 25%,31,0.795504082534462
+2024-03-26,StyleCo,Fashion,seasonal sale: 25% off selected items,42,0.483081994098611
+2024-03-23,QuickBite,Food,exclusive member discount: 25% off,63,1.48063193368725
+2024-03-12,FoodExpress,Food,clearance sale: extra 25% off,43,0.107017502803355
+2024-01-02,ElectroWorld,Electronics,special discount: save up to 25%,45,1.4205531332409
+2024-02-12,FoodExpress,Food,get 25% off on your next purchase,68,1.29442927585915
+2024-01-05,QuickBite,Food,flash sale: 25% discount today only,47,1.42732336504455
+2024-03-25,StyleCo,Fashion,flash sale: 25% discount today only,14,1.08046433026437
+2024-01-27,FoodExpress,Food,special discount: save up to 25%,36,0.581653876423091
+2024-01-23,FitGear,Sports,special discount: save up to 25%,70,0.334093673564494
+2024-01-03,QuickBite,Food,exclusive member discount: 25% off,28,0.210988880544901
+2024-01-15,SportMaster,Sports,get 25% off on your next purchase,21,0.152590469617862
+2024-02-27,FoodExpress,Food,flash sale: 25% discount today only,42,0.669215296157636
+2024-01-07,FoodExpress,Food,buy one get one free offer,19,1.27438199420795
+2024-02-03,TechGiant,Electronics,flash sale: 25% discount today only,40,1.45612727891654
+2024-01-31,TechGiant,Electronics,exclusive member discount: 25% off,45,0.103195111076348
+2024-03-22,SportMaster,Sports,flash sale: 25% discount today only,19,0.871028213778045
+2024-01-18,SportMaster,Sports,get 25% off on your next purchase,24,1.32672552748118
+2024-02-15,StyleCo,Fashion,clearance sale: extra 25% off,37,0.426230560739059
+2024-01-09,ElectroWorld,Electronics,exclusive member discount: 25% off,45,1.14263407598599
+2024-03-19,QuickBite,Food,exclusive member discount: 25% off,35,0.803522523504216
+2024-01-17,SportMaster,Sports,seasonal sale: 25% off selected items,17,0.0555755367167294
+2024-01-07,TechGiant,Electronics,special discount: save up to 25%,31,0.776647475975286
+2024-01-08,FoodExpress,Food,special discount: save up to 25%,55,1.08894057537313
+2024-03-05,FoodExpress,Food,clearance sale: extra 25% off,68,1.34513416204602
+2024-01-09,QuickBite,Food,special discount: save up to 25%,69,1.00736280994327
+2024-01-25,StyleCo,Fashion,special discount: save up to 25%,17,1.13490190521581
+2024-01-02,ElectroWorld,Electronics,get 25% off on your next purchase,51,0.0112710068686865
+2024-01-11,TechGiant,Electronics,special discount: save up to 25%,15,0.565233384357998
+2024-03-08,FoodExpress,Food,seasonal sale: 25% off selected items,13,0.546135705027264
+2024-02-09,TechGiant,Electronics,exclusive member discount: 25% off,52,1.20577048568055
+2024-01-20,StyleCo,Fashion,weekend special: save 25%,25,0.459548581566196
+2024-01-11,FoodExpress,Food,special discount: save up to 25%,48,0.961415891378187
+2024-01-18,SportMaster,Sports,exclusive member discount: 25% off,49,0.30724613888422
+2024-02-23,StyleCo,Fashion,weekend special: save 25%,40,1.13019444807433
+2024-01-14,ElectroWorld,Electronics,weekend special: save 25%,46,1.14540705891252
+2024-03-07,QuickBite,Food,buy one get one free offer,35,0.36765916646691
+2024-03-07,FashionHub,Fashion,flash sale: 25% discount today only,55,1.2440065221861
+2024-02-08,StyleCo,Fashion,special discount: save up to 25%,55,0.937605314038228
+2024-01-23,FitGear,Sports,seasonal sale: 25% off selected items,29,1.35928417136637
+2024-03-19,ElectroWorld,Electronics,special discount: save up to 25%,16,0.207186758490279
+2024-03-27,ElectroWorld,Electronics,buy one get one free offer,18,0.00500067257322371
+2024-03-28,SportMaster,Sports,clearance sale: extra 25% off,29,0.479571747088339
+2024-02-09,FoodExpress,Food,flash sale: 25% discount today only,62,1.24973956149537
+2024-02-02,SportMaster,Sports,buy one get one free offer,53,0.876885631810874
+2024-02-06,FashionHub,Fashion,buy one get one free offer,20,0.204551369603723
+2024-02-29,ElectroWorld,Electronics,exclusive member discount: 25% off,58,0.141244781510904
+2024-01-29,SportMaster,Sports,exclusive member discount: 25% off,11,1.06987308715191
+2024-03-10,SportMaster,Sports,seasonal sale: 25% off selected items,70,0.297018932355568
+2024-01-25,ElectroWorld,Electronics,special discount: save up to 25%,49,1.04121845237538
+2024-02-11,SportMaster,Sports,flash sale: 25% discount today only,38,0.738969628214836
+2024-01-26,QuickBite,Food,flash sale: 25% discount today only,32,1.34421084227879
+2024-03-28,FoodExpress,Food,clearance sale: extra 25% off,46,0.893373690517619
+2024-02-13,FitGear,Sports,buy one get one free offer,30,0.0897895921953023
+2024-01-08,TechGiant,Electronics,clearance sale: extra 25% off,39,0.790199876886793
+2024-01-16,SportMaster,Sports,exclusive member discount: 25% off,61,1.22122810948733
+2024-02-08,FashionHub,Fashion,seasonal sale: 25% off selected items,15,0.557641162164509
+2024-03-05,ElectroWorld,Electronics,flash sale: 25% discount today only,64,1.01034483122639
+2024-02-27,FoodExpress,Food,flash sale: 25% discount today only,41,0.675567349875346
+2024-03-29,ElectroWorld,Electronics,flash sale: 25% discount today only,44,1.2278145070374
+2024-02-25,QuickBite,Food,flash sale: 25% discount today only,61,0.517116150029004
+2024-02-12,StyleCo,Fashion,seasonal sale: 25% off selected items,36,0.555685041025281
+2024-03-07,FitGear,Sports,flash sale: 25% discount today only,23,0.983528755260631
+2024-02-25,ElectroWorld,Electronics,get 25% off on your next purchase,50,1.57264501210302
+2024-01-22,QuickBite,Food,weekend special: save 25%,69,1.00180656506284
+2024-01-17,FitGear,Sports,clearance sale: extra 25% off,41,0.508997899495997
+2024-03-24,SportMaster,Sports,flash sale: 25% discount today only,69,1.17277037784085
+2024-01-14,FoodExpress,Food,get 25% off on your next purchase,29,0.568522744104266
+2024-03-04,FoodExpress,Food,special discount: save up to 25%,31,0.207629283410497
+2024-01-24,StyleCo,Fashion,clearance sale: extra 25% off,13,0.6340838770587
+2024-01-08,FitGear,Sports,clearance sale: extra 25% off,48,0.0593781451350078
+2024-01-20,FashionHub,Fashion,get 25% off on your next purchase,60,0.300913594812155
+2024-03-14,SportMaster,Sports,seasonal sale: 25% off selected items,39,0.238979032831267
+2024-03-26,ElectroWorld,Electronics,exclusive member discount: 25% off,49,0.482744336354081
+2024-02-19,StyleCo,Fashion,seasonal sale: 25% off selected items,47,0.519752018137369
+2024-01-17,FashionHub,Fashion,clearance sale: extra 25% off,43,1.36300656121923
+2024-01-09,FitGear,Sports,get 25% off on your next purchase,27,0.497945727630286
+2024-02-04,FashionHub,Fashion,weekend special: save 25%,31,1.49452439622022
+2024-03-25,StyleCo,Fashion,exclusive member discount: 25% off,48,0.713985370863229
+2024-03-03,FoodExpress,Food,seasonal sale: 25% off selected items,44,1.4988931646347
+2024-02-26,FoodExpress,Food,special discount: save up to 25%,39,0.44149681809824
+2024-01-16,ElectroWorld,Electronics,get 25% off on your next purchase,12,0.41329593866691
+2024-02-21,StyleCo,Fashion,clearance sale: extra 25% off,54,0.248560187765397
+2024-03-30,QuickBite,Food,get 25% off on your next purchase,17,0.877415094455704
+2024-02-04,TechGiant,Electronics,flash sale: 25% discount today only,18,0.25970736528933
+2024-02-23,StyleCo,Fashion,special discount: save up to 25%,41,0.760311840106733
+2024-01-26,ElectroWorld,Electronics,get 25% off on your next purchase,40,0.302103174910881
+2024-01-13,FashionHub,Fashion,get 25% off on your next purchase,39,0.190837922884338
+2024-02-05,QuickBite,Food,buy one get one free offer,34,0.44255427820608
+2024-02-16,FitGear,Sports,flash sale: 25% discount today only,53,0.920399289603811
+2024-01-25,FoodExpress,Food,seasonal sale: 25% off selected items,28,0.972095734357834
+2024-01-28,FoodExpress,Food,get 25% off on your next purchase,11,0.300199639113341
+2024-01-29,SportMaster,Sports,weekend special: save 25%,53,0.698487879859284
+2024-03-17,ElectroWorld,Electronics,flash sale: 25% discount today only,48,0.256508321531117
+2024-02-13,TechGiant,Electronics,get 25% off on your next purchase,30,0.269824860617518
+2024-02-23,StyleCo,Fashion,special discount: save up to 25%,27,0.972729830278549
+2024-03-25,FitGear,Sports,flash sale: 25% discount today only,19,0.573136334789451
+2024-01-25,ElectroWorld,Electronics,flash sale: 25% discount today only,60,0.421509045138955
+2024-01-29,FashionHub,Fashion,flash sale: 25% discount today only,59,1.39290590994596
+2024-01-20,QuickBite,Food,flash sale: 25% discount today only,57,0.917515698380023
+2024-01-13,FashionHub,Fashion,exclusive member discount: 25% off,56,0.349960666533932
+2024-03-17,TechGiant,Electronics,flash sale: 25% discount today only,56,0.309065116345882
+2024-02-04,QuickBite,Food,flash sale: 25% discount today only,12,1.30186496061087
+2024-02-24,ElectroWorld,Electronics,special discount: save up to 25%,15,0.720783608439378
+2024-01-05,ElectroWorld,Electronics,clearance sale: extra 25% off,57,0.902414962226991
+2024-02-25,FitGear,Sports,seasonal sale: 25% off selected items,64,1.35548521023989
+2024-03-17,FoodExpress,Food,special discount: save up to 25%,63,1.54148484859988
+2024-03-27,ElectroWorld,Electronics,special discount: save up to 25%,53,1.05930770967621
+2024-02-13,FitGear,Sports,exclusive member discount: 25% off,40,1.23120230147615
+2024-03-12,FoodExpress,Food,flash sale: 25% discount today only,56,0.2201622154098
+2024-02-07,TechGiant,Electronics,special discount: save up to 25%,61,0.427044887298252
+2024-01-24,SportMaster,Sports,weekend special: save 25%,42,1.39925796854822
+2024-03-20,FitGear,Sports,exclusive member discount: 25% off,53,0.541482999022119
+2024-03-15,FashionHub,Fashion,flash sale: 25% discount today only,70,1.58487210175954
+2024-03-27,SportMaster,Sports,weekend special: save 25%,29,0.421990981874988
+2024-03-31,FitGear,Sports,seasonal sale: 25% off selected items,51,1.16945111187547
+2024-02-17,SportMaster,Sports,flash sale: 25% discount today only,15,0.719453149465844
+2024-01-15,FitGear,Sports,special discount: save up to 25%,60,0.990117111578584
+2024-03-05,ElectroWorld,Electronics,weekend special: save 25%,49,0.743231238580775
+2024-02-23,StyleCo,Fashion,special discount: save up to 25%,65,0.87586061807815
+2024-01-10,QuickBite,Food,clearance sale: extra 25% off,31,0.552100464008981
+2024-03-26,TechGiant,Electronics,get 25% off on your next purchase,61,0.968610334205441
+2024-02-11,QuickBite,Food,get 25% off on your next purchase,53,0.483199843240902
+2024-02-10,SportMaster,Sports,weekend special: save 25%,53,1.18733935358841
+2024-01-25,FashionHub,Fashion,flash sale: 25% discount today only,67,1.22354417641345
+2024-02-21,StyleCo,Fashion,get 25% off on your next purchase,43,0.792813294709194
+2024-02-06,SportMaster,Sports,clearance sale: extra 25% off,15,0.354443353856914
+2024-01-27,QuickBite,Food,weekend special: save 25%,19,1.16771249809228
+2024-03-13,SportMaster,Sports,weekend special: save 25%,51,1.27904515191447
+2024-03-23,FoodExpress,Food,weekend special: save 25%,16,0.51298360542208
+2024-02-04,FitGear,Sports,get 25% off on your next purchase,52,0.804828137174249
+2024-02-03,StyleCo,Fashion,flash sale: 25% discount today only,26,1.31638321900181
+2024-03-03,FoodExpress,Food,flash sale: 25% discount today only,49,0.731019584546797
+2024-03-27,StyleCo,Fashion,flash sale: 25% discount today only,62,0.785651872032322
+2024-03-16,FitGear,Sports,weekend special: save 25%,46,0.882503262218088
+2024-03-19,TechGiant,Electronics,clearance sale: extra 25% off,24,0.049067216925323
+2024-02-18,QuickBite,Food,weekend special: save 25%,26,0.597669612664729
+2024-02-04,FashionHub,Fashion,buy one get one free offer,24,0.684901345163584
+2024-01-29,FashionHub,Fashion,weekend special: save 25%,54,0.943437822555192
+2024-03-11,StyleCo,Fashion,weekend special: save 25%,58,1.06266036777291
+2024-02-14,SportMaster,Sports,buy one get one free offer,26,0.859671866004355
+2024-02-03,StyleCo,Fashion,seasonal sale: 25% off selected items,30,1.3894255084265
+2024-03-13,FashionHub,Fashion,seasonal sale: 25% off selected items,39,0.925791547503323
+2024-02-16,FoodExpress,Food,special discount: save up to 25%,45,0.759808680450078
+2024-01-01,SportMaster,Sports,buy one get one free offer,63,0.557673352559097
+2024-01-10,StyleCo,Fashion,special discount: save up to 25%,11,0.0319726722892374
+2024-02-10,FoodExpress,Food,flash sale: 25% discount today only,21,0.188820313909091
+2024-02-10,TechGiant,Electronics,buy one get one free offer,50,0.903469652775675
+2024-02-08,SportMaster,Sports,exclusive member discount: 25% off,36,0.694856444392353
+2024-03-27,SportMaster,Sports,flash sale: 25% discount today only,12,0.129049509204924
+2024-01-06,FitGear,Sports,get 25% off on your next purchase,28,0.432763683271408
+2024-02-01,FitGear,Sports,flash sale: 25% discount today only,43,0.235243647922762
+2024-03-01,ElectroWorld,Electronics,get 25% off on your next purchase,33,0.371597102186643
+2024-03-20,TechGiant,Electronics,buy one get one free offer,45,0.221173872076906
+2024-03-30,QuickBite,Food,seasonal sale: 25% off selected items,36,0.699977877661586
+2024-01-16,QuickBite,Food,clearance sale: extra 25% off,23,0.286943456502864
+2024-01-02,FoodExpress,Food,special discount: save up to 25%,49,0.127834836012684
+2024-02-03,FitGear,Sports,flash sale: 25% discount today only,58,1.65380086310394
+2024-03-18,FashionHub,Fashion,buy one get one free offer,30,0.278430748474784
+2024-01-30,FashionHub,Fashion,clearance sale: extra 25% off,31,0.292288779154187
+2024-01-28,FitGear,Sports,weekend special: save 25%,43,0.597527096407022
+2024-03-25,FitGear,Sports,exclusive member discount: 25% off,62,0.535099002770148
+2024-03-27,FitGear,Sports,special discount: save up to 25%,32,1.01538297546096
+2024-02-27,FitGear,Sports,weekend special: save 25%,33,0.762171545070596
+2024-01-30,SportMaster,Sports,special discount: save up to 25%,46,0.26036163285654
+2024-03-29,FitGear,Sports,weekend special: save 25%,44,1.171251296103
+2024-02-08,SportMaster,Sports,seasonal sale: 25% off selected items,46,1.34607315933798
+2024-03-10,QuickBite,Food,get 25% off on your next purchase,45,0.439315705234185
+2024-03-08,FashionHub,Fashion,weekend special: save 25%,54,1.1572064520698
+2024-03-07,ElectroWorld,Electronics,flash sale: 25% discount today only,68,0.343288769647479
+2024-02-15,ElectroWorld,Electronics,weekend special: save 25%,63,1.35166661887662
+2024-02-28,TechGiant,Electronics,exclusive member discount: 25% off,57,0.474162562701385
+2024-02-17,StyleCo,Fashion,buy one get one free offer,22,1.12231498909369
+2024-01-10,TechGiant,Electronics,weekend special: save 25%,13,0.149974171627779
+2024-01-28,FitGear,Sports,exclusive member discount: 25% off,56,1.73930611852147
+2024-03-16,ElectroWorld,Electronics,weekend special: save 25%,25,1.23183349950705
+2024-03-07,QuickBite,Food,special discount: save up to 25%,51,1.28937360911397
+2024-01-01,FoodExpress,Food,exclusive member discount: 25% off,65,0.0264197067066561
+2024-02-13,StyleCo,Fashion,special discount: save up to 25%,32,0.0500624285917729
+2024-02-18,FitGear,Sports,get 25% off on your next purchase,41,0.505665262727067
+2024-02-02,TechGiant,Electronics,weekend special: save 25%,57,0.512904091062956
+2024-02-05,FoodExpress,Food,buy one get one free offer,32,0.0986997829377651
+2024-01-13,FoodExpress,Food,buy one get one free offer,66,1.55154970445707
+2024-03-19,FoodExpress,Food,special discount: save up to 25%,63,0.0410538049391471
+2024-03-17,SportMaster,Sports,clearance sale: extra 25% off,14,1.12731471640617
+2024-02-15,TechGiant,Electronics,weekend special: save 25%,62,0.828518868321553
+2024-01-18,StyleCo,Fashion,get 25% off on your next purchase,60,1.34940549049526
+2024-02-19,FitGear,Sports,special discount: save up to 25%,21,1.13498544612667
+2024-01-26,QuickBite,Food,get 25% off on your next purchase,42,0.846543086106889
+2024-02-05,QuickBite,Food,get 25% off on your next purchase,67,1.58472607081058
+2024-02-05,ElectroWorld,Electronics,weekend special: save 25%,63,0.516619807055686
+2024-02-25,FoodExpress,Food,clearance sale: extra 25% off,28,0.44051502764225
+2024-02-26,QuickBite,Food,exclusive member discount: 25% off,67,1.61719564357307
+2024-01-03,FitGear,Sports,flash sale: 25% discount today only,48,0.395466033652425
+2024-03-29,ElectroWorld,Electronics,seasonal sale: 25% off selected items,68,1.34355413055047
+2024-01-11,SportMaster,Sports,weekend special: save 25%,49,0.483849856880726
+2024-02-20,TechGiant,Electronics,seasonal sale: 25% off selected items,25,0.870982002816163
+2024-01-30,ElectroWorld,Electronics,buy one get one free offer,53,1.28106949318713
+2024-01-16,SportMaster,Sports,clearance sale: extra 25% off,19,0.358312957999064
+2024-01-11,StyleCo,Fashion,buy one get one free offer,68,0.00962458765693009
+2024-03-06,TechGiant,Electronics,get 25% off on your next purchase,17,0.493856927091256
+2024-01-22,QuickBite,Food,seasonal sale: 25% off selected items,29,0.848302207697416
+2024-01-17,SportMaster,Sports,weekend special: save 25%,27,0.617707818977302
+2024-01-05,TechGiant,Electronics,clearance sale: extra 25% off,61,0.606638637888245
+2024-03-19,FitGear,Sports,seasonal sale: 25% off selected items,47,0.75947019581683
+2024-03-02,TechGiant,Electronics,special discount: save up to 25%,48,0.405739348109812
+2024-02-04,QuickBite,Food,special discount: save up to 25%,40,0.486225576605648
+2024-03-31,SportMaster,Sports,weekend special: save 25%,43,0.0384756754674017
+2024-01-22,FoodExpress,Food,special discount: save up to 25%,62,0.941549138763919
+2024-03-03,TechGiant,Electronics,flash sale: 25% discount today only,58,0.79340632494539
+2024-03-29,FashionHub,Fashion,flash sale: 25% discount today only,68,1.6376605832018
+2024-01-15,ElectroWorld,Electronics,get 25% off on your next purchase,36,0.0741537304632366
+2024-02-04,FitGear,Sports,get 25% off on your next purchase,21,0.927103778419085
+2024-01-30,TechGiant,Electronics,clearance sale: extra 25% off,22,0.662804792285431
+2024-02-03,SportMaster,Sports,exclusive member discount: 25% off,37,0.00773708003852516
+2024-03-09,StyleCo,Fashion,special discount: save up to 25%,59,0.353781020589173
+2024-03-09,FashionHub,Fashion,weekend special: save 25%,37,1.04270849071629
+2024-03-11,QuickBite,Food,buy one get one free offer,53,0.793262603902258
+2024-01-02,FitGear,Sports,clearance sale: extra 25% off,16,1.13778279600386
+2024-03-20,FashionHub,Fashion,get 25% off on your next purchase,51,1.02317926796386
+2024-01-23,FashionHub,Fashion,special discount: save up to 25%,48,0.836414288181812
+2024-03-27,FoodExpress,Food,seasonal sale: 25% off selected items,38,0.423967023622245
+2024-03-28,FashionHub,Fashion,exclusive member discount: 25% off,19,0.472893291027285
+2024-01-21,ElectroWorld,Electronics,get 25% off on your next purchase,17,0.236750611150078
+2024-03-22,FitGear,Sports,buy one get one free offer,21,0.459568826970644
+2024-01-19,TechGiant,Electronics,clearance sale: extra 25% off,55,0.460953837028938
+2024-01-09,TechGiant,Electronics,weekend special: save 25%,41,1.46614441687753
+2024-03-23,QuickBite,Food,special discount: save up to 25%,30,0.393526226878166
+2024-03-02,FitGear,Sports,flash sale: 25% discount today only,40,1.23602882137522
+2024-03-23,FashionHub,Fashion,weekend special: save 25%,67,0.135635733727366
+2024-03-09,FitGear,Sports,seasonal sale: 25% off selected items,28,0.569562614321709
+2024-02-14,FoodExpress,Food,flash sale: 25% discount today only,48,0.32192002964206

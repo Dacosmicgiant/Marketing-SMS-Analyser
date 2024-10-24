@@ -1,0 +1,10 @@
+name: smsanalyser
+title:
+username: cosmicgiant
+account: cosmicgiant
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12826672
+bundleId: 9145227
+url: https://cosmicgiant.shinyapps.io/smsanalyser/
+version: 1

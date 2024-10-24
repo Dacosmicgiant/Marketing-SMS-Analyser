@@ -1,0 +1,39 @@
+SMS Marketing Analysis Report
+============================
+
+1. Top Performing Companies:
+        company product_category n_campaigns avg_discount avg_response total_response
+         <char>           <char>       <int>        <num>        <num>          <num>
+1:      StyleCo          Fashion         141     39.18440    0.7766227      109.50380
+2:    TechGiant      Electronics         136     39.40441    0.7136477       97.05609
+3: ElectroWorld      Electronics         120     39.92500    0.8045016       96.54020
+4:  FoodExpress             Food         129     39.82946    0.7297806       94.14170
+5:    QuickBite             Food         126     38.26984    0.7464756       94.05592
+
+2. Category Performance:
+   product_category n_campaigns avg_discount avg_response total_response
+             <char>       <int>        <num>        <num>          <num>
+1:           Sports         241     40.19502    0.7140818       172.0937
+2:             Food         255     39.05882    0.7380299       188.1976
+3:          Fashion         248     41.61694    0.7847621       194.6210
+4:      Electronics         256     39.64844    0.7562355       193.5963
+
+3. Best Days for Marketing:
+   weekday product_category avg_response n_campaigns
+     <ord>           <char>        <num>       <int>
+1:     Sat      Electronics    0.9907551          30
+2:     Sun          Fashion    0.9500350          37
+3:     Sat           Sports    0.9168556          35
+4:     Fri             Food    0.8668741          32
+5:     Sun           Sports    0.8368138          38
+
+4. Optimal Discount Ranges:
+   discount_range avg_response
+           <fctr>        <num>
+1:        (60,70]    0.9144968
+2:        (50,60]    0.8328094
+3:        (40,50]    0.7505258
+4:        (20,30]    0.7173498
+5:        (30,40]    0.6942080
+6:        (10,20]    0.5985055
+7:         (0,10]    0.5226574

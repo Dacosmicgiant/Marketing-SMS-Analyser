@@ -27,4 +27,4 @@ sms_data <- data.frame(id = 1:5000,
                        }))
 
 # Write to CSV file
-write.csv(sms_data, "D:/VEDANT/projects/SMSAnalyser/sms_data.csv", row.names = FALSE)
+write.csv(sms_data, "./sms_data.csv", row.names = FALSE)
